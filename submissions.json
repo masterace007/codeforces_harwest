@@ -2626,6 +2626,23 @@
     ],
     "timestamp": "Jan/16/2021 16:15"
   },
+  "CF60735941": {
+    "contest_id": 118,
+    "language": "Java 8",
+    "path": "codeforces\\118\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "String Task",
+    "problem_url": "https://codeforces.com/contest/118/problem/A",
+    "submission_id": "CF60735941",
+    "submission_url": "https://codeforces.com/contest/118/submission/60735941",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Sep/17/2019 23:00"
+  },
   "CF60736877": {
     "contest_id": 69,
     "language": "Java 8",
