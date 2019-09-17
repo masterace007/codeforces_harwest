@@ -2626,6 +2626,22 @@
     ],
     "timestamp": "Jan/16/2021 16:15"
   },
+  "CF60734149": {
+    "contest_id": 71,
+    "language": "Java 8",
+    "path": "codeforces\\71\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Way Too Long Words",
+    "problem_url": "https://codeforces.com/contest/71/problem/A",
+    "submission_id": "CF60734149",
+    "submission_url": "https://codeforces.com/contest/71/submission/60734149",
+    "tags": [
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Sep/17/2019 22:20"
+  },
   "CF60735941": {
     "contest_id": 118,
     "language": "Java 8",
