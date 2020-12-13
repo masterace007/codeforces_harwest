@@ -1,4 +1,20 @@
 {
+  "AC18736419": {
+    "contest_id": "abc185",
+    "language": "C++ (Clang 10.0.0)",
+    "path": "atcoder\\abc185\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "ABC Preparation",
+    "problem_url": "https://atcoder.jp/contests/abc185/tasks/abc185_a",
+    "submission_id": "AC18736419",
+    "submission_url": "https://atcoder.jp/contests/abc185/submissions/18736419",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/13/2020 17:52"
+  },
   "AC18771621": {
     "contest_id": "abc185",
     "language": "C++ (Clang 10.0.0)",
