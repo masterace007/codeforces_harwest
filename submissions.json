@@ -1,4 +1,20 @@
 {
+  "AC18779145": {
+    "contest_id": "abc182",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc182\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "twiblr",
+    "problem_url": "https://atcoder.jp/contests/abc182/tasks/abc182_a",
+    "submission_id": "AC18779145",
+    "submission_url": "https://atcoder.jp/contests/abc182/submissions/18779145",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/14/2020 14:28"
+  },
   "AC18779583": {
     "contest_id": "abc182",
     "language": "C++ (GCC 9.2.1)",
