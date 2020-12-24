@@ -1,4 +1,20 @@
 {
+  "AC18968983": {
+    "contest_id": "abl",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abl\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Integer Preference",
+    "problem_url": "https://atcoder.jp/contests/abl/tasks/abl_b",
+    "submission_id": "AC18968983",
+    "submission_url": "https://atcoder.jp/contests/abl/submissions/18968983",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/24/2020 18:39"
+  },
   "AC19061823": {
     "contest_id": "abc160",
     "language": "C++ (GCC 9.2.1)",
