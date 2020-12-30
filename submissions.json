@@ -1,4 +1,22 @@
 {
+  "CF102750640": {
+    "contest_id": 1270,
+    "language": "GNU C++17",
+    "path": "codeforces\\1270\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Card Game",
+    "problem_url": "https://codeforces.com/contest/1270/problem/A",
+    "submission_id": "CF102750640",
+    "submission_url": "https://codeforces.com/contest/1270/submission/102750640",
+    "tags": [
+      "games",
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Dec/30/2020 14:34"
+  },
   "CF102752463": {
     "contest_id": 1270,
     "language": "GNU C++17",
