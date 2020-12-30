@@ -1,4 +1,20 @@
 {
+  "AC19061823": {
+    "contest_id": "abc160",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc160\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Coffee",
+    "problem_url": "https://atcoder.jp/contests/abc160/tasks/abc160_a",
+    "submission_id": "AC19061823",
+    "submission_url": "https://atcoder.jp/contests/abc160/submissions/19061823",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Dec/30/2020 15:32"
+  },
   "AC19061914": {
     "contest_id": "abc160",
     "language": "C++ (GCC 9.2.1)",
