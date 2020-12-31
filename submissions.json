@@ -1,4 +1,20 @@
 {
+  "CF102928935": {
+    "contest_id": 139,
+    "language": "GNU C++17",
+    "path": "codeforces\\139\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Petr and Book",
+    "problem_url": "https://codeforces.com/contest/139/problem/A",
+    "submission_id": "CF102928935",
+    "submission_url": "https://codeforces.com/contest/139/submission/102928935",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Dec/31/2020 22:52"
+  },
   "CF102929461": {
     "contest_id": 144,
     "language": "GNU C++17",
