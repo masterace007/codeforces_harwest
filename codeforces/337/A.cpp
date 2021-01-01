@@ -10,7 +10,6 @@
 
 using namespace std;
 
-//cout<<hello
 void solve() {
 	int n,m;
 	cin >> n >> m;
