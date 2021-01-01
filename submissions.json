@@ -1,4 +1,20 @@
 {
+  "AC19104740": {
+    "contest_id": "kupc2016",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\kupc2016\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "A Barricade",
+    "problem_url": "https://atcoder.jp/contests/kupc2016/tasks/kupc2016_a",
+    "submission_id": "AC19104740",
+    "submission_url": "https://atcoder.jp/contests/kupc2016/submissions/19104740",
+    "tags": [
+      "AtCoder",
+      "*66"
+    ],
+    "timestamp": "Jan/02/2021 00:17"
+  },
   "AC19163339": {
     "contest_id": "abc187",
     "language": "C++ (GCC 9.2.1)",
