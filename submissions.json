@@ -1,4 +1,20 @@
 {
+  "AC19104460": {
+    "contest_id": "abc042",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc042\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Iroha and Haiku (ABC Edition)",
+    "problem_url": "https://atcoder.jp/contests/abc042/tasks/abc042_a",
+    "submission_id": "AC19104460",
+    "submission_url": "https://atcoder.jp/contests/abc042/submissions/19104460",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/01/2021 23:33"
+  },
   "AC19104740": {
     "contest_id": "kupc2016",
     "language": "C++ (GCC 9.2.1)",
