@@ -1,4 +1,20 @@
 {
+  "AC19104034": {
+    "contest_id": "abc180",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc180\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Cream puff",
+    "problem_url": "https://atcoder.jp/contests/abc180/tasks/abc180_c",
+    "submission_id": "AC19104034",
+    "submission_url": "https://atcoder.jp/contests/abc180/submissions/19104034",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/01/2021 22:45"
+  },
   "AC19104125": {
     "contest_id": "abc179",
     "language": "C++ (GCC 9.2.1)",
