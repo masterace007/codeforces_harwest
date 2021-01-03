@@ -1,4 +1,22 @@
 {
+  "CF103099514": {
+    "contest_id": 149,
+    "language": "GNU C++17",
+    "path": "codeforces\\149\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Business trip",
+    "problem_url": "https://codeforces.com/contest/149/problem/A",
+    "submission_id": "CF103099514",
+    "submission_url": "https://codeforces.com/contest/149/submission/103099514",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jan/03/2021 18:59"
+  },
   "CF103104436": {
     "contest_id": 80,
     "language": "GNU C++17",
