@@ -1,4 +1,20 @@
 {
+  "CF103104436": {
+    "contest_id": 80,
+    "language": "GNU C++17",
+    "path": "codeforces\\80\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Panoramix's Prediction",
+    "problem_url": "https://codeforces.com/contest/80/problem/A",
+    "submission_id": "CF103104436",
+    "submission_url": "https://codeforces.com/contest/80/submission/103104436",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Jan/03/2021 20:03"
+  },
   "CF103106230": {
     "contest_id": 248,
     "language": "GNU C++17",
