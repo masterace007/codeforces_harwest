@@ -1,4 +1,21 @@
 {
+  "CF103147341": {
+    "contest_id": 134,
+    "language": "GNU C++17",
+    "path": "codeforces\\134\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Average Numbers",
+    "problem_url": "https://codeforces.com/contest/134/problem/A",
+    "submission_id": "CF103147341",
+    "submission_url": "https://codeforces.com/contest/134/submission/103147341",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jan/04/2021 11:58"
+  },
   "CF103149176": {
     "contest_id": 1249,
     "language": "GNU C++17",
