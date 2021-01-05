@@ -1,4 +1,20 @@
 {
+  "CF103348242": {
+    "contest_id": 915,
+    "language": "GNU C++17",
+    "path": "codeforces\\915\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Garden",
+    "problem_url": "https://codeforces.com/contest/915/problem/A",
+    "submission_id": "CF103348242",
+    "submission_url": "https://codeforces.com/contest/915/submission/103348242",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jan/05/2021 12:01"
+  },
   "CF103352545": {
     "contest_id": 1174,
     "language": "GNU C++17",
