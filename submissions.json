@@ -1,4 +1,22 @@
 {
+  "CF103369414": {
+    "contest_id": 352,
+    "language": "GNU C++17",
+    "path": "codeforces\\352\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Jeff and Digits",
+    "problem_url": "https://codeforces.com/contest/352/problem/A",
+    "submission_id": "CF103369414",
+    "submission_url": "https://codeforces.com/contest/352/submission/103369414",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jan/05/2021 16:05"
+  },
   "CF103369526": {
     "contest_id": 337,
     "language": "GNU C++17",
