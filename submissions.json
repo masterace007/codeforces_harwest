@@ -1,4 +1,21 @@
 {
+  "CF103385654": {
+    "contest_id": 222,
+    "language": "GNU C++17",
+    "path": "codeforces\\222\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Shooshuns and Sequence ",
+    "problem_url": "https://codeforces.com/contest/222/problem/A",
+    "submission_id": "CF103385654",
+    "submission_url": "https://codeforces.com/contest/222/submission/103385654",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jan/05/2021 19:04"
+  },
   "CF103506710": {
     "contest_id": 1382,
     "language": "GNU C++17",
