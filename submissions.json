@@ -1,4 +1,20 @@
 {
+  "AC19240686": {
+    "contest_id": "abc178",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc178\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Not",
+    "problem_url": "https://atcoder.jp/contests/abc178/tasks/abc178_a",
+    "submission_id": "AC19240686",
+    "submission_url": "https://atcoder.jp/contests/abc178/submissions/19240686",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/07/2021 00:51"
+  },
   "AC19240693": {
     "contest_id": "abc178",
     "language": "C++ (GCC 9.2.1)",
