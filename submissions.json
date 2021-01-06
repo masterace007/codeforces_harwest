@@ -1,4 +1,20 @@
 {
+  "CF103528044": {
+    "contest_id": 1399,
+    "language": "GNU C++17",
+    "path": "codeforces\\1399\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Gifts Fixing",
+    "problem_url": "https://codeforces.com/contest/1399/problem/B",
+    "submission_id": "CF103528044",
+    "submission_url": "https://codeforces.com/contest/1399/submission/103528044",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jan/06/2021 15:43"
+  },
   "CF103532364": {
     "contest_id": 1399,
     "language": "GNU C++17",
