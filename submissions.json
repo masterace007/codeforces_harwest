@@ -1,4 +1,20 @@
 {
+  "AC19240813": {
+    "contest_id": "abc051",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc051\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Haiku",
+    "problem_url": "https://atcoder.jp/contests/abc051/tasks/abc051_a",
+    "submission_id": "AC19240813",
+    "submission_url": "https://atcoder.jp/contests/abc051/submissions/19240813",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/07/2021 01:23"
+  },
   "AC19240849": {
     "contest_id": "abc051",
     "language": "C++ (GCC 9.2.1)",
