@@ -1,4 +1,20 @@
 {
+  "AC19246529": {
+    "contest_id": "abc163",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc163\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "management",
+    "problem_url": "https://atcoder.jp/contests/abc163/tasks/abc163_c",
+    "submission_id": "AC19246529",
+    "submission_url": "https://atcoder.jp/contests/abc163/submissions/19246529",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/07/2021 12:18"
+  },
   "AC19247465": {
     "contest_id": "abc150",
     "language": "C++ (GCC 9.2.1)",
