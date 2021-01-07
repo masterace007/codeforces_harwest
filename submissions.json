@@ -1,4 +1,20 @@
 {
+  "CF103616478": {
+    "contest_id": 1452,
+    "language": "GNU C++17",
+    "path": "codeforces\\1452\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Robot Program",
+    "problem_url": "https://codeforces.com/contest/1452/problem/A",
+    "submission_id": "CF103616478",
+    "submission_url": "https://codeforces.com/contest/1452/submission/103616478",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/07/2021 14:54"
+  },
   "CF103655497": {
     "contest_id": 1367,
     "language": "GNU C++17",
