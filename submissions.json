@@ -1,4 +1,23 @@
 {
+  "CF103704654": {
+    "contest_id": 1323,
+    "language": "GNU C++17",
+    "path": "codeforces\\1323\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Even Subset Sum Problem",
+    "problem_url": "https://codeforces.com/contest/1323/problem/A",
+    "submission_id": "CF103704654",
+    "submission_url": "https://codeforces.com/contest/1323/submission/103704654",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/08/2021 15:57"
+  },
   "CF103711789": {
     "contest_id": 1178,
     "language": "GNU C++17",
