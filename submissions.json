@@ -1,4 +1,20 @@
 {
+  "AC19265206": {
+    "contest_id": "abc094",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc094\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Cats and Dogs",
+    "problem_url": "https://atcoder.jp/contests/abc094/tasks/abc094_a",
+    "submission_id": "AC19265206",
+    "submission_url": "https://atcoder.jp/contests/abc094/submissions/19265206",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/08/2021 18:02"
+  },
   "AC19315276": {
     "contest_id": "abc188",
     "language": "C++ (GCC 9.2.1)",
