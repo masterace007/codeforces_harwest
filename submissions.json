@@ -1,4 +1,20 @@
 {
+  "CF103720587": {
+    "contest_id": 952,
+    "language": "GNU C++17",
+    "path": "codeforces\\952\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Quirky Quantifiers",
+    "problem_url": "https://codeforces.com/contest/952/problem/A",
+    "submission_id": "CF103720587",
+    "submission_url": "https://codeforces.com/contest/952/submission/103720587",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/08/2021 19:14"
+  },
   "CF103823016": {
     "contest_id": 1328,
     "language": "GNU C++17",
