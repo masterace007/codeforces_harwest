@@ -1,4 +1,20 @@
 {
+  "AC19375594": {
+    "contest_id": "abc145",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc145\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Average Length",
+    "problem_url": "https://atcoder.jp/contests/abc145/tasks/abc145_c",
+    "submission_id": "AC19375594",
+    "submission_url": "https://atcoder.jp/contests/abc145/submissions/19375594",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/11/2021 12:54"
+  },
   "AC19409600": {
     "contest_id": "abc139",
     "language": "C++ (GCC 9.2.1)",
