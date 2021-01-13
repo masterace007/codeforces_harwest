@@ -1,4 +1,20 @@
 {
+  "AC19421351": {
+    "contest_id": "abc149",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc149\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Strings",
+    "problem_url": "https://atcoder.jp/contests/abc149/tasks/abc149_a",
+    "submission_id": "AC19421351",
+    "submission_url": "https://atcoder.jp/contests/abc149/submissions/19421351",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/14/2021 01:45"
+  },
   "AC19421398": {
     "contest_id": "abc149",
     "language": "C++ (GCC 9.2.1)",
