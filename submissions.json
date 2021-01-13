@@ -1,4 +1,20 @@
 {
+  "AC19416165": {
+    "contest_id": "abc142",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc142\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Go to School",
+    "problem_url": "https://atcoder.jp/contests/abc142/tasks/abc142_c",
+    "submission_id": "AC19416165",
+    "submission_url": "https://atcoder.jp/contests/abc142/submissions/19416165",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/13/2021 18:39"
+  },
   "AC19417933": {
     "contest_id": "abc081",
     "language": "C++ (GCC 9.2.1)",
