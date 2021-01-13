@@ -1,4 +1,20 @@
 {
+  "AC19412683": {
+    "contest_id": "abc088",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc088\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Card Game for Two",
+    "problem_url": "https://atcoder.jp/contests/abc088/tasks/abc088_b",
+    "submission_id": "AC19412683",
+    "submission_url": "https://atcoder.jp/contests/abc088/submissions/19412683",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/13/2021 15:04"
+  },
   "AC19412715": {
     "contest_id": "abc088",
     "language": "C++ (GCC 9.2.1)",
