@@ -1,4 +1,20 @@
 {
+  "AC19414459": {
+    "contest_id": "abc084",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc084\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "New Year",
+    "problem_url": "https://atcoder.jp/contests/abc084/tasks/abc084_a",
+    "submission_id": "AC19414459",
+    "submission_url": "https://atcoder.jp/contests/abc084/submissions/19414459",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/13/2021 17:22"
+  },
   "AC19415417": {
     "contest_id": "agc014",
     "language": "C++ (GCC 9.2.1)",
