@@ -1,4 +1,20 @@
 {
+  "AC19421608": {
+    "contest_id": "abc059",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc059\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Comparison",
+    "problem_url": "https://atcoder.jp/contests/abc059/tasks/abc059_b",
+    "submission_id": "AC19421608",
+    "submission_url": "https://atcoder.jp/contests/abc059/submissions/19421608",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/14/2021 02:52"
+  },
   "AC19421625": {
     "contest_id": "abc059",
     "language": "C++ (GCC 9.2.1)",
