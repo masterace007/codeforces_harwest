@@ -1,4 +1,20 @@
 {
+  "AC19417933": {
+    "contest_id": "abc081",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc081\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Shift only",
+    "problem_url": "https://atcoder.jp/contests/abc081/tasks/abc081_b",
+    "submission_id": "AC19417933",
+    "submission_url": "https://atcoder.jp/contests/abc081/submissions/19417933",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/13/2021 20:06"
+  },
   "AC19418220": {
     "contest_id": "abc071",
     "language": "C++ (GCC 9.2.1)",
