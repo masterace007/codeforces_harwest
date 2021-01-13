@@ -1,4 +1,20 @@
 {
+  "AC19421084": {
+    "contest_id": "abc123",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc123\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Five Antennas",
+    "problem_url": "https://atcoder.jp/contests/abc123/tasks/abc123_a",
+    "submission_id": "AC19421084",
+    "submission_url": "https://atcoder.jp/contests/abc123/submissions/19421084",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/14/2021 00:33"
+  },
   "AC19421338": {
     "contest_id": "abc149",
     "language": "C++ (GCC 9.2.1)",
