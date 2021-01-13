@@ -1,4 +1,20 @@
 {
+  "AC19411216": {
+    "contest_id": "code-festival-2016-qualb",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\code-festival-2016-qualb\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Signboard",
+    "problem_url": "https://atcoder.jp/contests/code-festival-2016-qualb/tasks/codefestival_2016_qualB_a",
+    "submission_id": "AC19411216",
+    "submission_url": "https://atcoder.jp/contests/code-festival-2016-qualb/submissions/19411216",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/13/2021 13:20"
+  },
   "AC19411554": {
     "contest_id": "sumitrust2019",
     "language": "C++ (GCC 9.2.1)",
