@@ -1,4 +1,20 @@
 {
+  "AC19415417": {
+    "contest_id": "agc014",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\agc014\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Cookie Exchanges",
+    "problem_url": "https://atcoder.jp/contests/agc014/tasks/agc014_a",
+    "submission_id": "AC19415417",
+    "submission_url": "https://atcoder.jp/contests/agc014/submissions/19415417",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/13/2021 18:05"
+  },
   "AC19416165": {
     "contest_id": "abc142",
     "language": "C++ (GCC 9.2.1)",
