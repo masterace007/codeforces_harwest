@@ -1,4 +1,20 @@
 {
+  "AC19412715": {
+    "contest_id": "abc088",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc088\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Infinite Coins",
+    "problem_url": "https://atcoder.jp/contests/abc088/tasks/abc088_a",
+    "submission_id": "AC19412715",
+    "submission_url": "https://atcoder.jp/contests/abc088/submissions/19412715",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/13/2021 15:07"
+  },
   "AC19413397": {
     "contest_id": "abc157",
     "language": "C++ (GCC 9.2.1)",
