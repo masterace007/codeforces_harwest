@@ -1,4 +1,20 @@
 {
+  "AC19413482": {
+    "contest_id": "abc068",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc068\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Break Number",
+    "problem_url": "https://atcoder.jp/contests/abc068/tasks/abc068_b",
+    "submission_id": "AC19413482",
+    "submission_url": "https://atcoder.jp/contests/abc068/submissions/19413482",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/13/2021 16:15"
+  },
   "AC19414124": {
     "contest_id": "abc086",
     "language": "C++ (GCC 9.2.1)",
