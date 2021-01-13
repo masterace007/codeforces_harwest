@@ -1,4 +1,20 @@
 {
+  "AC19418412": {
+    "contest_id": "abc052",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc052\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Increment Decrement",
+    "problem_url": "https://atcoder.jp/contests/abc052/tasks/abc052_b",
+    "submission_id": "AC19418412",
+    "submission_url": "https://atcoder.jp/contests/abc052/submissions/19418412",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/13/2021 20:28"
+  },
   "AC19419054": {
     "contest_id": "abc114",
     "language": "C++ (GCC 9.2.1)",
