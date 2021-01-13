@@ -1,4 +1,20 @@
 {
+  "AC19421501": {
+    "contest_id": "abc053",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc053\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "A to Z String",
+    "problem_url": "https://atcoder.jp/contests/abc053/tasks/abc053_b",
+    "submission_id": "AC19421501",
+    "submission_url": "https://atcoder.jp/contests/abc053/submissions/19421501",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/14/2021 02:25"
+  },
   "AC19421506": {
     "contest_id": "abc053",
     "language": "C++ (GCC 9.2.1)",
