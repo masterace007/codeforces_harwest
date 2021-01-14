@@ -1,4 +1,20 @@
 {
+  "AC19435275": {
+    "contest_id": "abc103",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc103\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Task Scheduling Problem",
+    "problem_url": "https://atcoder.jp/contests/abc103/tasks/abc103_a",
+    "submission_id": "AC19435275",
+    "submission_url": "https://atcoder.jp/contests/abc103/submissions/19435275",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/14/2021 22:44"
+  },
   "AC19435891": {
     "contest_id": "abc109",
     "language": "C++ (GCC 9.2.1)",
