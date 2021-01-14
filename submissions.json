@@ -1,4 +1,20 @@
 {
+  "AC19428255": {
+    "contest_id": "abc083",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc083\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Some Sums",
+    "problem_url": "https://atcoder.jp/contests/abc083/tasks/abc083_b",
+    "submission_id": "AC19428255",
+    "submission_url": "https://atcoder.jp/contests/abc083/submissions/19428255",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/14/2021 14:58"
+  },
   "AC19428286": {
     "contest_id": "abc083",
     "language": "C++ (GCC 9.2.1)",
