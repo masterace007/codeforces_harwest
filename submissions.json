@@ -1,4 +1,20 @@
 {
+  "AC19434044": {
+    "contest_id": "abc104",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc104\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Rated for Me",
+    "problem_url": "https://atcoder.jp/contests/abc104/tasks/abc104_a",
+    "submission_id": "AC19434044",
+    "submission_url": "https://atcoder.jp/contests/abc104/submissions/19434044",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/14/2021 20:30"
+  },
   "AC19434115": {
     "contest_id": "abc092",
     "language": "C++ (GCC 9.2.1)",
