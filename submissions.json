@@ -1,4 +1,20 @@
 {
+  "AC19433636": {
+    "contest_id": "abc090",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc090\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Diagonal String",
+    "problem_url": "https://atcoder.jp/contests/abc090/tasks/abc090_a",
+    "submission_id": "AC19433636",
+    "submission_url": "https://atcoder.jp/contests/abc090/submissions/19433636",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/14/2021 20:08"
+  },
   "AC19433744": {
     "contest_id": "abc079",
     "language": "C++ (GCC 9.2.1)",
