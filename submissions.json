@@ -1,4 +1,20 @@
 {
+  "AC19433744": {
+    "contest_id": "abc079",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc079\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Lucas Number",
+    "problem_url": "https://atcoder.jp/contests/abc079/tasks/abc079_b",
+    "submission_id": "AC19433744",
+    "submission_url": "https://atcoder.jp/contests/abc079/submissions/19433744",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/14/2021 20:14"
+  },
   "AC19433989": {
     "contest_id": "abc104",
     "language": "C++ (GCC 9.2.1)",
