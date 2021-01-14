@@ -1,4 +1,20 @@
 {
+  "AC19426226": {
+    "contest_id": "abc177",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc177\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Don't be late",
+    "problem_url": "https://atcoder.jp/contests/abc177/tasks/abc177_a",
+    "submission_id": "AC19426226",
+    "submission_url": "https://atcoder.jp/contests/abc177/submissions/19426226",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/14/2021 12:33"
+  },
   "AC19426646": {
     "contest_id": "abc065",
     "language": "C++ (GCC 9.2.1)",
