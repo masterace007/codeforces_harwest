@@ -1,4 +1,20 @@
 {
+  "AC19425650": {
+    "contest_id": "abc098",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc098\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Add Sub Mul",
+    "problem_url": "https://atcoder.jp/contests/abc098/tasks/abc098_a",
+    "submission_id": "AC19425650",
+    "submission_url": "https://atcoder.jp/contests/abc098/submissions/19425650",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/14/2021 11:56"
+  },
   "AC19426226": {
     "contest_id": "abc177",
     "language": "C++ (GCC 9.2.1)",
