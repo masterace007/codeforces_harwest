@@ -1,4 +1,22 @@
 {
+  "CF104443591": {
+    "contest_id": 385,
+    "language": "GNU C++17",
+    "path": "codeforces\\385\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Bear and Raspberry",
+    "problem_url": "https://codeforces.com/contest/385/problem/A",
+    "submission_id": "CF104443591",
+    "submission_url": "https://codeforces.com/contest/385/submission/104443591",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jan/16/2021 00:32"
+  },
   "CF104444362": {
     "contest_id": 479,
     "language": "GNU C++17",
