@@ -1,4 +1,20 @@
 {
+  "AC19459305": {
+    "contest_id": "abc055",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc055\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Restaurant",
+    "problem_url": "https://atcoder.jp/contests/abc055/tasks/abc055_a",
+    "submission_id": "AC19459305",
+    "submission_url": "https://atcoder.jp/contests/abc055/submissions/19459305",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/16/2021 15:42"
+  },
   "CF101294584": {
     "contest_id": 1462,
     "language": "GNU C++17",
