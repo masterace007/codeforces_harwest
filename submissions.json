@@ -4642,6 +4642,23 @@
     ],
     "timestamp": "Jan/16/2021 19:23"
   },
+  "CF104521165": {
+    "contest_id": 92,
+    "language": "GNU C++17",
+    "path": "codeforces\\92\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Chips",
+    "problem_url": "https://codeforces.com/contest/92/problem/A",
+    "submission_id": "CF104521165",
+    "submission_url": "https://codeforces.com/contest/92/submission/104521165",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/16/2021 20:52"
+  },
   "CF104521247": {
     "contest_id": 129,
     "language": "GNU C++17",
