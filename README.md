@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-286 | [B - Queue at the School](https://codeforces.com/contest/266/problem/B) | [GNU C++17](./codeforces/266/B.cpp) | `constructive algorithms` `graph matchings` `implementation` `shortest paths` `*800` | Jan/17/2021 00:05 | 
+287 | [B - Queue at the School](https://codeforces.com/contest/266/problem/B) | [GNU C++17](./codeforces/266/B.cpp) | `constructive algorithms` `graph matchings` `implementation` `shortest paths` `*800` | Jan/17/2021 00:05 | 
+286 | [A - Presents](https://codeforces.com/contest/136/problem/A) | [GNU C++17](./codeforces/136/A.cpp) | `implementation` `*800` | Jan/17/2021 00:03 | 
 285 | [A - Levko and Table](https://codeforces.com/contest/361/problem/A) | [GNU C++17](./codeforces/361/A.cpp) | `constructive algorithms` `implementation` `*800` | Jan/16/2021 20:55 | 
 284 | [A - Cookies](https://codeforces.com/contest/129/problem/A) | [GNU C++17](./codeforces/129/A.cpp) | `implementation` `*900` | Jan/16/2021 20:53 | 
 283 | [A - Chips](https://codeforces.com/contest/92/problem/A) | [GNU C++17](./codeforces/92/A.cpp) | `implementation` `math` `*800` | Jan/16/2021 20:52 | 
