@@ -4610,6 +4610,22 @@
     ],
     "timestamp": "Jan/16/2021 16:15"
   },
+  "CF104510210": {
+    "contest_id": 275,
+    "language": "GNU C++17",
+    "path": "codeforces\\275\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Lights Out",
+    "problem_url": "https://codeforces.com/contest/275/problem/A",
+    "submission_id": "CF104510210",
+    "submission_url": "https://codeforces.com/contest/275/submission/104510210",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jan/16/2021 18:30"
+  },
   "CF60734149": {
     "contest_id": 71,
     "language": "Java 8",
