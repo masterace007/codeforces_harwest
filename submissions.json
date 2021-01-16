@@ -1,4 +1,20 @@
 {
+  "AC19457791": {
+    "contest_id": "abc156",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc156\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Digits",
+    "problem_url": "https://atcoder.jp/contests/abc156/tasks/abc156_b",
+    "submission_id": "AC19457791",
+    "submission_url": "https://atcoder.jp/contests/abc156/submissions/19457791",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/16/2021 14:04"
+  },
   "AC19457979": {
     "contest_id": "abc156",
     "language": "C++ (GCC 9.2.1)",
