@@ -1,4 +1,20 @@
 {
+  "AC19458645": {
+    "contest_id": "panasonic2020",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\panasonic2020\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Kth Term",
+    "problem_url": "https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_a",
+    "submission_id": "AC19458645",
+    "submission_url": "https://atcoder.jp/contests/panasonic2020/submissions/19458645",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/16/2021 14:59"
+  },
   "AC19459200": {
     "contest_id": "abc055",
     "language": "C++ (GCC 9.2.1)",
