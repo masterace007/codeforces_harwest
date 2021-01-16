@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-161 | [A - Life Without Zeros](https://codeforces.com/contest/75/problem/A) | [GNU C++17](./codeforces/75/A.cpp) | `implementation` `*1000` | Jan/16/2021 16:15 | 
-160 | [A - Restaurant](https://atcoder.jp/contests/abc055/tasks/abc055_a) | [C++ (GCC 9.2.1)](./atcoder/abc055/A.cpp) | `AtCoder` `*100` | Jan/16/2021 15:42 | 
-159 | [B - Training Camp](https://atcoder.jp/contests/abc055/tasks/abc055_b) | [C++ (GCC 9.2.1)](./atcoder/abc055/B.cpp) | `AtCoder` `*200` | Jan/16/2021 15:35 | 
-158 | [A - Kth Term](https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_a) | [C++ (GCC 9.2.1)](./atcoder/panasonic2020/A.cpp) | `AtCoder` `*100` | Jan/16/2021 14:59 | 
-157 | [B - Count Balls](https://atcoder.jp/contests/abc158/tasks/abc158_b) | [C++ (GCC 9.2.1)](./atcoder/abc158/B.cpp) | `AtCoder` `*200` | Jan/16/2021 14:54 | 
+162 | [A - Life Without Zeros](https://codeforces.com/contest/75/problem/A) | [GNU C++17](./codeforces/75/A.cpp) | `implementation` `*1000` | Jan/16/2021 16:15 | 
+161 | [A - Restaurant](https://atcoder.jp/contests/abc055/tasks/abc055_a) | [C++ (GCC 9.2.1)](./atcoder/abc055/A.cpp) | `AtCoder` `*100` | Jan/16/2021 15:42 | 
+160 | [B - Training Camp](https://atcoder.jp/contests/abc055/tasks/abc055_b) | [C++ (GCC 9.2.1)](./atcoder/abc055/B.cpp) | `AtCoder` `*200` | Jan/16/2021 15:35 | 
+159 | [A - Kth Term](https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_a) | [C++ (GCC 9.2.1)](./atcoder/panasonic2020/A.cpp) | `AtCoder` `*100` | Jan/16/2021 14:59 | 
+158 | [B - Count Balls](https://atcoder.jp/contests/abc158/tasks/abc158_b) | [C++ (GCC 9.2.1)](./atcoder/abc158/B.cpp) | `AtCoder` `*200` | Jan/16/2021 14:54 | 
+157 | [A - Station and Bus](https://atcoder.jp/contests/abc158/tasks/abc158_a) | [C++ (GCC 9.2.1)](./atcoder/abc158/A.cpp) | `AtCoder` `*100` | Jan/16/2021 14:24 | 
 156 | [A - Minimum Difficulty](https://codeforces.com/contest/496/problem/A) | [GNU C++17](./codeforces/496/A.cpp) | `brute force` `implementation` `math` `*900` | Jan/16/2021 02:10 | 
 155 | [A - Fox And Snake](https://codeforces.com/contest/510/problem/A) | [GNU C++17](./codeforces/510/A.cpp) | `implementation` `*800` | Jan/16/2021 01:08 | 
 154 | [A - Equalize Prices Again](https://codeforces.com/contest/1234/problem/A) | [GNU C++17](./codeforces/1234/A.cpp) | `math` `*800` | Jan/16/2021 01:04 | 
