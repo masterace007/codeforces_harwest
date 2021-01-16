@@ -13,14 +13,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-295 | [B - Food Buying](https://codeforces.com/contest/1296/problem/B) | [GNU C++17](./codeforces/1296/B.cpp) | `math` `*900` | Jan/17/2021 20:47 | 
-294 | [D - Again?](https://codeforces.com/contest/1331/problem/D) | [GNU C++17](./codeforces/1331/D.cpp) | `implementation` | Jan/17/2021 18:40 | 
-293 | [A - New Year and Naming](https://codeforces.com/contest/1284/problem/A) | [GNU C++17](./codeforces/1284/A.cpp) | `implementation` `strings` `*800` | Jan/17/2021 17:03 | 
-292 | [A - Array with Odd Sum](https://codeforces.com/contest/1296/problem/A) | [GNU C++17](./codeforces/1296/A.cpp) | `math` `*800` | Jan/17/2021 15:46 | 
-291 | [A - Blackjack](https://codeforces.com/contest/104/problem/A) | [GNU C++17](./codeforces/104/A.cpp) | `implementation` `*800` | Jan/17/2021 15:13 | 
-290 | [A - Next Test](https://codeforces.com/contest/27/problem/A) | [GNU C++17](./codeforces/27/A.cpp) | `implementation` `sortings` `*1200` | Jan/17/2021 14:50 | 
-289 | [A - Marks](https://codeforces.com/contest/152/problem/A) | [GNU C++17](./codeforces/152/A.cpp) | `implementation` `*900` | Jan/17/2021 13:31 | 
-288 | [B - Sum of Digits](https://codeforces.com/contest/102/problem/B) | [GNU C++17](./codeforces/102/B.cpp) | `implementation` `*1000` | Jan/17/2021 12:51 | 
+296 | [B - Food Buying](https://codeforces.com/contest/1296/problem/B) | [GNU C++17](./codeforces/1296/B.cpp) | `math` `*900` | Jan/17/2021 20:47 | 
+295 | [D - Again?](https://codeforces.com/contest/1331/problem/D) | [GNU C++17](./codeforces/1331/D.cpp) | `implementation` | Jan/17/2021 18:40 | 
+294 | [A - New Year and Naming](https://codeforces.com/contest/1284/problem/A) | [GNU C++17](./codeforces/1284/A.cpp) | `implementation` `strings` `*800` | Jan/17/2021 17:03 | 
+293 | [A - Array with Odd Sum](https://codeforces.com/contest/1296/problem/A) | [GNU C++17](./codeforces/1296/A.cpp) | `math` `*800` | Jan/17/2021 15:46 | 
+292 | [A - Blackjack](https://codeforces.com/contest/104/problem/A) | [GNU C++17](./codeforces/104/A.cpp) | `implementation` `*800` | Jan/17/2021 15:13 | 
+291 | [A - Next Test](https://codeforces.com/contest/27/problem/A) | [GNU C++17](./codeforces/27/A.cpp) | `implementation` `sortings` `*1200` | Jan/17/2021 14:50 | 
+290 | [A - Marks](https://codeforces.com/contest/152/problem/A) | [GNU C++17](./codeforces/152/A.cpp) | `implementation` `*900` | Jan/17/2021 13:31 | 
+289 | [B - Sum of Digits](https://codeforces.com/contest/102/problem/B) | [GNU C++17](./codeforces/102/B.cpp) | `implementation` `*1000` | Jan/17/2021 12:51 | 
+288 | [A - Candy Bags](https://codeforces.com/contest/334/problem/A) | [GNU C++17](./codeforces/334/A.cpp) | `implementation` `*1000` | Jan/17/2021 02:09 | 
 287 | [B - Queue at the School](https://codeforces.com/contest/266/problem/B) | [GNU C++17](./codeforces/266/B.cpp) | `constructive algorithms` `graph matchings` `implementation` `shortest paths` `*800` | Jan/17/2021 00:05 | 
 286 | [A - Presents](https://codeforces.com/contest/136/problem/A) | [GNU C++17](./codeforces/136/A.cpp) | `implementation` `*800` | Jan/17/2021 00:03 | 
 285 | [A - Levko and Table](https://codeforces.com/contest/361/problem/A) | [GNU C++17](./codeforces/361/A.cpp) | `constructive algorithms` `implementation` `*800` | Jan/16/2021 20:55 | 
