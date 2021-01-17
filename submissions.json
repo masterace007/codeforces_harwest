@@ -4727,6 +4727,22 @@
     ],
     "timestamp": "Jan/17/2021 00:05"
   },
+  "CF104597673": {
+    "contest_id": 1296,
+    "language": "GNU C++17",
+    "path": "codeforces\\1296\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Food Buying",
+    "problem_url": "https://codeforces.com/contest/1296/problem/B",
+    "submission_id": "CF104597673",
+    "submission_url": "https://codeforces.com/contest/1296/submission/104597673",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jan/17/2021 20:47"
+  },
   "CF60734149": {
     "contest_id": 71,
     "language": "Java 8",
