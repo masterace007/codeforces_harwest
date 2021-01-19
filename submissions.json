@@ -1983,6 +1983,22 @@
     ],
     "timestamp": "Jan/16/2021 15:42"
   },
+  "AC19529470": {
+    "contest_id": "hitachi2020",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\hitachi2020\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Nice Shopping",
+    "problem_url": "https://atcoder.jp/contests/hitachi2020/tasks/hitachi2020_b",
+    "submission_id": "AC19529470",
+    "submission_url": "https://atcoder.jp/contests/hitachi2020/submissions/19529470",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/20/2021 02:51"
+  },
   "CF101294584": {
     "contest_id": 1462,
     "language": "GNU C++17",
