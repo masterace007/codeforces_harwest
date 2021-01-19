@@ -13,10 +13,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-303 | [B - Nice Shopping](https://atcoder.jp/contests/hitachi2020/tasks/hitachi2020_b) | [C++ (GCC 9.2.1)](./atcoder/hitachi2020/B.cpp) | `AtCoder` `*200` | Jan/20/2021 02:51 | 
-302 | [A - Double Helix](https://atcoder.jp/contests/abc122/tasks/abc122_a) | [C++ (GCC 9.2.1)](./atcoder/abc122/A.cpp) | `AtCoder` `*100` | Jan/20/2021 02:02 | 
-301 | [B - ATCoder](https://atcoder.jp/contests/abc122/tasks/abc122_b) | [C++ (GCC 9.2.1)](./atcoder/abc122/B.cpp) | `AtCoder` `*200` | Jan/20/2021 01:56 | 
-300 | [B - Ordinary Number](https://atcoder.jp/contests/abc132/tasks/abc132_b) | [C++ (GCC 9.2.1)](./atcoder/abc132/B.cpp) | `AtCoder` `*200` | Jan/20/2021 01:38 | 
+304 | [B - Nice Shopping](https://atcoder.jp/contests/hitachi2020/tasks/hitachi2020_b) | [C++ (GCC 9.2.1)](./atcoder/hitachi2020/B.cpp) | `AtCoder` `*200` | Jan/20/2021 02:51 | 
+303 | [A - Double Helix](https://atcoder.jp/contests/abc122/tasks/abc122_a) | [C++ (GCC 9.2.1)](./atcoder/abc122/A.cpp) | `AtCoder` `*100` | Jan/20/2021 02:02 | 
+302 | [B - ATCoder](https://atcoder.jp/contests/abc122/tasks/abc122_b) | [C++ (GCC 9.2.1)](./atcoder/abc122/B.cpp) | `AtCoder` `*200` | Jan/20/2021 01:56 | 
+301 | [B - Ordinary Number](https://atcoder.jp/contests/abc132/tasks/abc132_b) | [C++ (GCC 9.2.1)](./atcoder/abc132/B.cpp) | `AtCoder` `*200` | Jan/20/2021 01:38 | 
+300 | [A - Fifty-Fifty](https://atcoder.jp/contests/abc132/tasks/abc132_a) | [C++ (GCC 9.2.1)](./atcoder/abc132/A.cpp) | `AtCoder` `*100` | Jan/20/2021 01:25 | 
 299 | [A - Boys and Girls](https://codeforces.com/contest/253/problem/A) | [GNU C++17](./codeforces/253/A.cpp) | `greedy` `*1100` | Jan/18/2021 23:42 | 
 298 | [A - Two Bags of Potatoes](https://codeforces.com/contest/239/problem/A) | [GNU C++17](./codeforces/239/A.cpp) | `greedy` `implementation` `math` `*1200` | Jan/18/2021 20:57 | 
 297 | [B - Food Buying](https://codeforces.com/contest/1296/problem/B) | [GNU C++17](./codeforces/1296/B.cpp) | `math` `*900` | Jan/17/2021 20:47 | 

@@ -1983,6 +1983,22 @@
     ],
     "timestamp": "Jan/16/2021 15:42"
   },
+  "AC19529233": {
+    "contest_id": "abc132",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc132\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Fifty-Fifty",
+    "problem_url": "https://atcoder.jp/contests/abc132/tasks/abc132_a",
+    "submission_id": "AC19529233",
+    "submission_url": "https://atcoder.jp/contests/abc132/submissions/19529233",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/20/2021 01:25"
+  },
   "AC19529269": {
     "contest_id": "abc132",
     "language": "C++ (GCC 9.2.1)",
