@@ -1983,6 +1983,22 @@
     ],
     "timestamp": "Jan/16/2021 15:42"
   },
+  "AC19524434": {
+    "contest_id": "abc057",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc057\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Remaining Time",
+    "problem_url": "https://atcoder.jp/contests/abc057/tasks/abc057_a",
+    "submission_id": "AC19524434",
+    "submission_url": "https://atcoder.jp/contests/abc057/submissions/19524434",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/19/2021 17:47"
+  },
   "AC19526962": {
     "contest_id": "abc057",
     "language": "C++ (GCC 9.2.1)",
