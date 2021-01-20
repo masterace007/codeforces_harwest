@@ -2207,6 +2207,22 @@
     ],
     "timestamp": "Jan/20/2021 02:51"
   },
+  "AC19536218": {
+    "contest_id": "abc050",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc050\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Contest with Drinks Easy",
+    "problem_url": "https://atcoder.jp/contests/abc050/tasks/abc050_b",
+    "submission_id": "AC19536218",
+    "submission_url": "https://atcoder.jp/contests/abc050/submissions/19536218",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/20/2021 16:18"
+  },
   "AC19536380": {
     "contest_id": "abc061",
     "language": "C++ (GCC 9.2.1)",
