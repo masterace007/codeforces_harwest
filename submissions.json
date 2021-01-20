@@ -2207,6 +2207,22 @@
     ],
     "timestamp": "Jan/20/2021 02:51"
   },
+  "AC19540358": {
+    "contest_id": "abc155",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc155\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Poor",
+    "problem_url": "https://atcoder.jp/contests/abc155/tasks/abc155_a",
+    "submission_id": "AC19540358",
+    "submission_url": "https://atcoder.jp/contests/abc155/submissions/19540358",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/20/2021 20:23"
+  },
   "AC19540574": {
     "contest_id": "abc155",
     "language": "C++ (GCC 9.2.1)",
