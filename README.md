@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+314 | [A - Dodecagon](https://atcoder.jp/contests/abc134/tasks/abc134_a) | [C++ (GCC 9.2.1)](./atcoder/abc134/A.cpp) | `AtCoder` `*100` | Jan/21/2021 02:19 | 
 313 | [B - Nice Shopping](https://atcoder.jp/contests/hitachi2020/tasks/hitachi2020_b) | [C++ (GCC 9.2.1)](./atcoder/hitachi2020/B.cpp) | `AtCoder` `*200` | Jan/20/2021 02:51 | 
 312 | [A - Double Helix](https://atcoder.jp/contests/abc122/tasks/abc122_a) | [C++ (GCC 9.2.1)](./atcoder/abc122/A.cpp) | `AtCoder` `*100` | Jan/20/2021 02:02 | 
 311 | [B - ATCoder](https://atcoder.jp/contests/abc122/tasks/abc122_b) | [C++ (GCC 9.2.1)](./atcoder/abc122/B.cpp) | `AtCoder` `*200` | Jan/20/2021 01:56 | 
