@@ -2511,6 +2511,22 @@
     ],
     "timestamp": "Jan/21/2021 02:19"
   },
+  "AC19551816": {
+    "contest_id": "abc141",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc141\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Tap Dance",
+    "problem_url": "https://atcoder.jp/contests/abc141/tasks/abc141_b",
+    "submission_id": "AC19551816",
+    "submission_url": "https://atcoder.jp/contests/abc141/submissions/19551816",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/21/2021 18:00"
+  },
   "AC19556797": {
     "contest_id": "agc002",
     "language": "C++ (GCC 9.2.1)",
