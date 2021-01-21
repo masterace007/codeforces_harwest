@@ -2511,6 +2511,22 @@
     ],
     "timestamp": "Jan/21/2021 02:19"
   },
+  "AC19556987": {
+    "contest_id": "abc124",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc124\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Coloring Colorfully",
+    "problem_url": "https://atcoder.jp/contests/abc124/tasks/abc124_c",
+    "submission_id": "AC19556987",
+    "submission_url": "https://atcoder.jp/contests/abc124/submissions/19556987",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/22/2021 02:14"
+  },
   "AC19557042": {
     "contest_id": "abc124",
     "language": "C++ (GCC 9.2.1)",
