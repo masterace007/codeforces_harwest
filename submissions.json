@@ -6010,6 +6010,23 @@
     ],
     "timestamp": "Jan/18/2021 23:42"
   },
+  "CF104996323": {
+    "contest_id": 330,
+    "language": "GNU C++17",
+    "path": "codeforces\\330\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cakeminator",
+    "problem_url": "https://codeforces.com/contest/330/problem/A",
+    "submission_id": "CF104996323",
+    "submission_url": "https://codeforces.com/contest/330/submission/104996323",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/21/2021 20:10"
+  },
   "CF105086258": {
     "contest_id": 1108,
     "language": "GNU C++17",
