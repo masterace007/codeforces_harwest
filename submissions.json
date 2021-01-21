@@ -2511,6 +2511,22 @@
     ],
     "timestamp": "Jan/21/2021 02:19"
   },
+  "AC19556797": {
+    "contest_id": "agc002",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\agc002\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Range Product",
+    "problem_url": "https://atcoder.jp/contests/agc002/tasks/agc002_a",
+    "submission_id": "AC19556797",
+    "submission_url": "https://atcoder.jp/contests/agc002/submissions/19556797",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/22/2021 01:24"
+  },
   "AC19556987": {
     "contest_id": "abc124",
     "language": "C++ (GCC 9.2.1)",
