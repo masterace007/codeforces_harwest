@@ -2511,6 +2511,22 @@
     ],
     "timestamp": "Jan/21/2021 02:19"
   },
+  "AC19570799": {
+    "contest_id": "abc171",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc171\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Mix Juice",
+    "problem_url": "https://atcoder.jp/contests/abc171/tasks/abc171_b",
+    "submission_id": "AC19570799",
+    "submission_url": "https://atcoder.jp/contests/abc171/submissions/19570799",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/23/2021 00:50"
+  },
   "AC19570885": {
     "contest_id": "abc173",
     "language": "C++ (GCC 9.2.1)",
