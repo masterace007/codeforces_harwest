@@ -2511,6 +2511,22 @@
     ],
     "timestamp": "Jan/21/2021 02:19"
   },
+  "AC19571261": {
+    "contest_id": "abc125",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc125\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Biscuit Generator",
+    "problem_url": "https://atcoder.jp/contests/abc125/tasks/abc125_a",
+    "submission_id": "AC19571261",
+    "submission_url": "https://atcoder.jp/contests/abc125/submissions/19571261",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/23/2021 02:32"
+  },
   "AC19576834": {
     "contest_id": "abc176",
     "language": "C++ (GCC 9.2.1)",
