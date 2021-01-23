@@ -2863,6 +2863,22 @@
     ],
     "timestamp": "Jan/23/2021 14:50"
   },
+  "AC19653738": {
+    "contest_id": "abc091",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc091\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Two Colors Card Game",
+    "problem_url": "https://atcoder.jp/contests/abc091/tasks/abc091_b",
+    "submission_id": "AC19653738",
+    "submission_url": "https://atcoder.jp/contests/abc091/submissions/19653738",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/23/2021 20:18"
+  },
   "AC19653986": {
     "contest_id": "abc091",
     "language": "C++ (GCC 9.2.1)",
