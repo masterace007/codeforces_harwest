@@ -2863,6 +2863,22 @@
     ],
     "timestamp": "Jan/23/2021 14:50"
   },
+  "AC19659796": {
+    "contest_id": "abc045",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc045\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Trapezoids",
+    "problem_url": "https://atcoder.jp/contests/abc045/tasks/abc045_a",
+    "submission_id": "AC19659796",
+    "submission_url": "https://atcoder.jp/contests/abc045/submissions/19659796",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/24/2021 00:21"
+  },
   "AC19659862": {
     "contest_id": "abc100",
     "language": "C++ (GCC 9.2.1)",
