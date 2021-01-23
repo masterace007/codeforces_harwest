@@ -2863,6 +2863,22 @@
     ],
     "timestamp": "Jan/23/2021 14:50"
   },
+  "AC19657846": {
+    "contest_id": "abc062",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc062\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Grouping",
+    "problem_url": "https://atcoder.jp/contests/abc062/tasks/abc062_a",
+    "submission_id": "AC19657846",
+    "submission_url": "https://atcoder.jp/contests/abc062/submissions/19657846",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/23/2021 22:16"
+  },
   "AC19659796": {
     "contest_id": "abc045",
     "language": "C++ (GCC 9.2.1)",
