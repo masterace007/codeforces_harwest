@@ -2863,6 +2863,22 @@
     ],
     "timestamp": "Jan/23/2021 14:50"
   },
+  "AC19582321": {
+    "contest_id": "abc152",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc152\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Low Elements",
+    "problem_url": "https://atcoder.jp/contests/abc152/tasks/abc152_c",
+    "submission_id": "AC19582321",
+    "submission_url": "https://atcoder.jp/contests/abc152/submissions/19582321",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/23/2021 17:09"
+  },
   "AC19582798": {
     "contest_id": "abc152",
     "language": "C++ (GCC 9.2.1)",
