@@ -2863,6 +2863,22 @@
     ],
     "timestamp": "Jan/23/2021 14:50"
   },
+  "AC19660777": {
+    "contest_id": "abc079",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc079\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Train Ticket",
+    "problem_url": "https://atcoder.jp/contests/abc079/tasks/abc079_c",
+    "submission_id": "AC19660777",
+    "submission_url": "https://atcoder.jp/contests/abc079/submissions/19660777",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/24/2021 02:34"
+  },
   "CF101294584": {
     "contest_id": 1462,
     "language": "GNU C++17",
