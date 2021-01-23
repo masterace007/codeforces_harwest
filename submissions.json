@@ -2863,6 +2863,22 @@
     ],
     "timestamp": "Jan/23/2021 14:50"
   },
+  "AC19659862": {
+    "contest_id": "abc100",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc100\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Happy Birthday!",
+    "problem_url": "https://atcoder.jp/contests/abc100/tasks/abc100_a",
+    "submission_id": "AC19659862",
+    "submission_url": "https://atcoder.jp/contests/abc100/submissions/19659862",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/24/2021 00:28"
+  },
   "AC19660445": {
     "contest_id": "abc100",
     "language": "C++ (GCC 9.2.1)",
