@@ -33,7 +33,7 @@ void solve() {
     }
     else{
         int ans = a*n;
-        if (n % 100 == 0)ans += pow(100, d);
+        if (n == 100)ans += pow(100, d);
         cout<<ans<<endl;
     }
 } 
