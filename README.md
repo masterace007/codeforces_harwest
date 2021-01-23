@@ -13,16 +13,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-364 | [C - Train Ticket](https://atcoder.jp/contests/abc079/tasks/abc079_c) | [C++ (GCC 9.2.1)](./atcoder/abc079/C.cpp) | `AtCoder` `*300` | Jan/24/2021 02:34 | 
-363 | [B - Ringo's Favorite Numbers](https://atcoder.jp/contests/abc100/tasks/abc100_b) | [C++ (GCC 9.2.1)](./atcoder/abc100/B.cpp) | `AtCoder` `*200` | Jan/24/2021 02:01 | 
-362 | [A - Happy Birthday!](https://atcoder.jp/contests/abc100/tasks/abc100_a) | [C++ (GCC 9.2.1)](./atcoder/abc100/A.cpp) | `AtCoder` `*100` | Jan/24/2021 00:28 | 
-361 | [A - Trapezoids](https://atcoder.jp/contests/abc045/tasks/abc045_a) | [C++ (GCC 9.2.1)](./atcoder/abc045/A.cpp) | `AtCoder` `*100` | Jan/24/2021 00:21 | 
-360 | [A - Grouping](https://atcoder.jp/contests/abc062/tasks/abc062_a) | [C++ (GCC 9.2.1)](./atcoder/abc062/A.cpp) | `AtCoder` `*100` | Jan/23/2021 22:16 | 
-359 | [B - Picture Frame](https://atcoder.jp/contests/abc062/tasks/abc062_b) | [C++ (GCC 9.2.1)](./atcoder/abc062/B.cpp) | `AtCoder` `*200` | Jan/23/2021 21:50 | 
-358 | [A - Two Coins](https://atcoder.jp/contests/abc091/tasks/abc091_a) | [C++ (GCC 9.2.1)](./atcoder/abc091/A.cpp) | `AtCoder` `*100` | Jan/23/2021 20:23 | 
-357 | [B - Two Colors Card Game](https://atcoder.jp/contests/abc091/tasks/abc091_b) | [C++ (GCC 9.2.1)](./atcoder/abc091/B.cpp) | `AtCoder` `*200` | Jan/23/2021 20:18 | 
-356 | [C - Tax Increase](https://atcoder.jp/contests/abc158/tasks/abc158_c) | [C++ (GCC 9.2.1)](./atcoder/abc158/C.cpp) | `AtCoder` `*300` | Jan/23/2021 19:05 | 
-355 | [A - Slot](https://atcoder.jp/contests/abc189/tasks/abc189_a) | [C++ (GCC 9.2.1)](./atcoder/abc189/A.cpp) | `AtCoder` `*100` | Jan/23/2021 17:33 | 
+365 | [C - Train Ticket](https://atcoder.jp/contests/abc079/tasks/abc079_c) | [C++ (GCC 9.2.1)](./atcoder/abc079/C.cpp) | `AtCoder` `*300` | Jan/24/2021 02:34 | 
+364 | [B - Ringo's Favorite Numbers](https://atcoder.jp/contests/abc100/tasks/abc100_b) | [C++ (GCC 9.2.1)](./atcoder/abc100/B.cpp) | `AtCoder` `*200` | Jan/24/2021 02:01 | 
+363 | [A - Happy Birthday!](https://atcoder.jp/contests/abc100/tasks/abc100_a) | [C++ (GCC 9.2.1)](./atcoder/abc100/A.cpp) | `AtCoder` `*100` | Jan/24/2021 00:28 | 
+362 | [A - Trapezoids](https://atcoder.jp/contests/abc045/tasks/abc045_a) | [C++ (GCC 9.2.1)](./atcoder/abc045/A.cpp) | `AtCoder` `*100` | Jan/24/2021 00:21 | 
+361 | [A - Grouping](https://atcoder.jp/contests/abc062/tasks/abc062_a) | [C++ (GCC 9.2.1)](./atcoder/abc062/A.cpp) | `AtCoder` `*100` | Jan/23/2021 22:16 | 
+360 | [B - Picture Frame](https://atcoder.jp/contests/abc062/tasks/abc062_b) | [C++ (GCC 9.2.1)](./atcoder/abc062/B.cpp) | `AtCoder` `*200` | Jan/23/2021 21:50 | 
+359 | [A - Two Coins](https://atcoder.jp/contests/abc091/tasks/abc091_a) | [C++ (GCC 9.2.1)](./atcoder/abc091/A.cpp) | `AtCoder` `*100` | Jan/23/2021 20:23 | 
+358 | [B - Two Colors Card Game](https://atcoder.jp/contests/abc091/tasks/abc091_b) | [C++ (GCC 9.2.1)](./atcoder/abc091/B.cpp) | `AtCoder` `*200` | Jan/23/2021 20:18 | 
+357 | [C - Tax Increase](https://atcoder.jp/contests/abc158/tasks/abc158_c) | [C++ (GCC 9.2.1)](./atcoder/abc158/C.cpp) | `AtCoder` `*300` | Jan/23/2021 19:05 | 
+356 | [A - Slot](https://atcoder.jp/contests/abc189/tasks/abc189_a) | [C++ (GCC 9.2.1)](./atcoder/abc189/A.cpp) | `AtCoder` `*100` | Jan/23/2021 17:33 | 
+355 | [A - AC or WA](https://atcoder.jp/contests/abc152/tasks/abc152_a) | [C++ (GCC 9.2.1)](./atcoder/abc152/A.cpp) | `AtCoder` `*100` | Jan/23/2021 17:27 | 
 354 | [B - K-th Common Divisor](https://atcoder.jp/contests/abc120/tasks/abc120_b) | [C++ (GCC 9.2.1)](./atcoder/abc120/B.cpp) | `AtCoder` `*200` | Jan/23/2021 14:50 | 
 353 | [A - Favorite Sound](https://atcoder.jp/contests/abc120/tasks/abc120_a) | [C++ (GCC 9.2.1)](./atcoder/abc120/A.cpp) | `AtCoder` `*100` | Jan/23/2021 14:38 | 
 352 | [C - Unification](https://atcoder.jp/contests/abc120/tasks/abc120_c) | [C++ (GCC 9.2.1)](./atcoder/abc120/C.cpp) | `AtCoder` `*300` | Jan/23/2021 14:34 | 
