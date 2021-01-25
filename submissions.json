@@ -6010,6 +6010,22 @@
     ],
     "timestamp": "Jan/18/2021 23:42"
   },
+  "CF105292095": {
+    "contest_id": 255,
+    "language": "GNU C++17",
+    "path": "codeforces\\255\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Greg's Workout",
+    "problem_url": "https://codeforces.com/contest/255/problem/A",
+    "submission_id": "CF105292095",
+    "submission_url": "https://codeforces.com/contest/255/submission/105292095",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jan/25/2021 17:05"
+  },
   "CF105292930": {
     "contest_id": 1304,
     "language": "GNU C++17",
