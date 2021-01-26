@@ -13,12 +13,13 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-372 | [A - Bad Triangle](https://codeforces.com/contest/1398/problem/A) | [GNU C++17](./codeforces/1398/A.cpp) | `geometry` `math` `*800` | Jan/27/2021 00:44 | 
-371 | [A - Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | [GNU C++17](./codeforces/1335/A.cpp) | `math` `*800` | Jan/27/2021 00:30 | 
-370 | [A - Supercentral Point](https://codeforces.com/contest/165/problem/A) | [GNU C++17](./codeforces/165/A.cpp) | `implementation` `*1000` | Jan/26/2021 23:51 | 
-369 | [C - Ball in Berland](https://codeforces.com/contest/1475/problem/C) | [GNU C++17](./codeforces/1475/C.cpp) | `combinatorics` `dfs and similar` `graphs` `hashing` `math` | Jan/26/2021 23:21 | 
-368 | [A - Exams](https://codeforces.com/contest/194/problem/A) | [GNU C++17](./codeforces/194/A.cpp) | `implementation` `math` `*900` | Jan/26/2021 22:45 | 
-367 | [A - Dawid and Bags of Candies](https://codeforces.com/contest/1230/problem/A) | [GNU C++17](./codeforces/1230/A.cpp) | `brute force` `implementation` `*800` | Jan/26/2021 22:27 | 
+373 | [A - Bad Triangle](https://codeforces.com/contest/1398/problem/A) | [GNU C++17](./codeforces/1398/A.cpp) | `geometry` `math` `*800` | Jan/27/2021 00:44 | 
+372 | [A - Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | [GNU C++17](./codeforces/1335/A.cpp) | `math` `*800` | Jan/27/2021 00:30 | 
+371 | [A - Supercentral Point](https://codeforces.com/contest/165/problem/A) | [GNU C++17](./codeforces/165/A.cpp) | `implementation` `*1000` | Jan/26/2021 23:51 | 
+370 | [C - Ball in Berland](https://codeforces.com/contest/1475/problem/C) | [GNU C++17](./codeforces/1475/C.cpp) | `combinatorics` `dfs and similar` `graphs` `hashing` `math` | Jan/26/2021 23:21 | 
+369 | [A - Exams](https://codeforces.com/contest/194/problem/A) | [GNU C++17](./codeforces/194/A.cpp) | `implementation` `math` `*900` | Jan/26/2021 22:45 | 
+368 | [A - Dawid and Bags of Candies](https://codeforces.com/contest/1230/problem/A) | [GNU C++17](./codeforces/1230/A.cpp) | `brute force` `implementation` `*800` | Jan/26/2021 22:27 | 
+367 | [B - Ania and Minimizing](https://codeforces.com/contest/1230/problem/B) | [GNU C++17](./codeforces/1230/B.cpp) | `greedy` `implementation` `*1000` | Jan/26/2021 22:14 | 
 366 | [C - Train Ticket](https://atcoder.jp/contests/abc079/tasks/abc079_c) | [C++ (GCC 9.2.1)](./atcoder/abc079/C.cpp) | `AtCoder` `*300` | Jan/24/2021 02:34 | 
 365 | [B - Ringo's Favorite Numbers](https://atcoder.jp/contests/abc100/tasks/abc100_b) | [C++ (GCC 9.2.1)](./atcoder/abc100/B.cpp) | `AtCoder` `*200` | Jan/24/2021 02:01 | 
 364 | [A - Happy Birthday!](https://atcoder.jp/contests/abc100/tasks/abc100_a) | [C++ (GCC 9.2.1)](./atcoder/abc100/A.cpp) | `AtCoder` `*100` | Jan/24/2021 00:28 | 
