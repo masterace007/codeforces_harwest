@@ -3071,6 +3071,22 @@
     ],
     "timestamp": "Jan/24/2021 02:34"
   },
+  "AC19735355": {
+    "contest_id": "abc097",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc097\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Colorful Transceivers",
+    "problem_url": "https://atcoder.jp/contests/abc097/tasks/abc097_a",
+    "submission_id": "AC19735355",
+    "submission_url": "https://atcoder.jp/contests/abc097/submissions/19735355",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/28/2021 13:16"
+  },
   "AC19769410": {
     "contest_id": "panasonic2020",
     "language": "C++ (GCC 9.2.1)",
