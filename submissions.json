@@ -6885,6 +6885,24 @@
     ],
     "timestamp": "Jan/27/2021 00:44"
   },
+  "CF105650987": {
+    "contest_id": 723,
+    "language": "GNU C++17",
+    "path": "codeforces\\723\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The New Year: Meeting Friends",
+    "problem_url": "https://codeforces.com/contest/723/problem/A",
+    "submission_id": "CF105650987",
+    "submission_url": "https://codeforces.com/contest/723/submission/105650987",
+    "tags": [
+      "implementation",
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jan/28/2021 14:48"
+  },
   "CF105653679": {
     "contest_id": 1370,
     "language": "GNU C++17",
