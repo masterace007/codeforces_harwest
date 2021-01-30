@@ -13,27 +13,28 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-473 | [A - Non-zero](https://codeforces.com/contest/1300/problem/A) | [GNU C++17](./codeforces/1300/A.cpp) | `implementation` `math` `*800` | Jan/31/2021 18:22 | 
-472 | [A - Playing with Dice](https://codeforces.com/contest/378/problem/A) | [GNU C++17](./codeforces/378/A.cpp) | `brute force` `*800` | Jan/31/2021 16:53 | 
-471 | [A - Line to Cashier](https://codeforces.com/contest/408/problem/A) | [GNU C++17](./codeforces/408/A.cpp) | `implementation` `*900` | Jan/31/2021 16:35 | 
-470 | [A - Appleman and Easy Task](https://codeforces.com/contest/462/problem/A) | [GNU C++17](./codeforces/462/A.cpp) | `brute force` `implementation` `*1000` | Jan/31/2021 16:05 | 
-469 | [A - Equation](https://codeforces.com/contest/1269/problem/A) | [GNU C++17](./codeforces/1269/A.cpp) | `brute force` `math` `*800` | Jan/31/2021 14:03 | 
-468 | [B - Multiplication 2](https://atcoder.jp/contests/abc169/tasks/abc169_b) | [C++ (GCC 9.2.1)](./atcoder/abc169/B.cpp) | `AtCoder` `*200` | Jan/31/2021 13:19 | 
-467 | [A - Multiplication 1](https://atcoder.jp/contests/abc169/tasks/abc169_a) | [C++ (GCC 9.2.1)](./atcoder/abc169/A.cpp) | `AtCoder` `*100` | Jan/31/2021 13:00 | 
-466 | [A - Collecting Beats is Fun](https://codeforces.com/contest/373/problem/A) | [GNU C++17](./codeforces/373/A.cpp) | `implementation` `*900` | Jan/31/2021 03:06 | 
-465 | [A - Roma and Lucky Numbers](https://codeforces.com/contest/262/problem/A) | [GNU C++17](./codeforces/262/A.cpp) | `implementation` `*800` | Jan/31/2021 02:47 | 
-464 | [A - Cifera](https://codeforces.com/contest/114/problem/A) | [GNU C++17](./codeforces/114/A.cpp) | `math` `*1000` | Jan/31/2021 02:37 | 
-463 | [A - Epic Game](https://codeforces.com/contest/119/problem/A) | [GNU C++17](./codeforces/119/A.cpp) | `implementation` `*800` | Jan/31/2021 02:13 | 
-462 | [A - Juggling Letters](https://codeforces.com/contest/1397/problem/A) | [GNU C++17](./codeforces/1397/A.cpp) | `greedy` `strings` `*800` | Jan/31/2021 01:42 | 
-461 | [A - Counterexample ](https://codeforces.com/contest/483/problem/A) | [GNU C++17](./codeforces/483/A.cpp) | `brute force` `implementation` `math` `number theory` `*1100` | Jan/31/2021 01:00 | 
-460 | [A - Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | [GNU C++17](./codeforces/580/A.cpp) | `brute force` `dp` `implementation` `*900` | Jan/31/2021 00:16 | 
-459 | [B - Five Dishes](https://atcoder.jp/contests/abc123/tasks/abc123_b) | [C++ (GCC 9.2.1)](./atcoder/abc123/B.cpp) | `AtCoder` `*200` | Jan/30/2021 21:50 | 
-458 | [B - Counting Roads](https://atcoder.jp/contests/abc061/tasks/abc061_b) | [C++ (GCC 9.2.1)](./atcoder/abc061/B.cpp) | `AtCoder` `*200` | Jan/30/2021 20:51 | 
-457 | [A - Wanna go back home](https://atcoder.jp/contests/agc003/tasks/agc003_a) | [C++ (GCC 9.2.1)](./atcoder/agc003/A.cpp) | `AtCoder` `*200` | Jan/30/2021 20:11 | 
-456 | [A - B +/- A](https://atcoder.jp/contests/abc118/tasks/abc118_a) | [C++ (GCC 9.2.1)](./atcoder/abc118/A.cpp) | `AtCoder` `*100` | Jan/30/2021 19:43 | 
-455 | [B - Foods Loved by Everyone](https://atcoder.jp/contests/abc118/tasks/abc118_b) | [C++ (GCC 9.2.1)](./atcoder/abc118/B.cpp) | `AtCoder` `*200` | Jan/30/2021 19:39 | 
-454 | [A - Buying Sweets](https://atcoder.jp/contests/abc087/tasks/abc087_a) | [C++ (GCC 9.2.1)](./atcoder/abc087/A.cpp) | `AtCoder` `*100` | Jan/30/2021 18:35 | 
-453 | [B - Coins](https://atcoder.jp/contests/abc087/tasks/abc087_b) | [C++ (GCC 9.2.1)](./atcoder/abc087/B.cpp) | `AtCoder` `*200` | Jan/30/2021 18:32 | 
+474 | [A - Non-zero](https://codeforces.com/contest/1300/problem/A) | [GNU C++17](./codeforces/1300/A.cpp) | `implementation` `math` `*800` | Jan/31/2021 18:22 | 
+473 | [A - Playing with Dice](https://codeforces.com/contest/378/problem/A) | [GNU C++17](./codeforces/378/A.cpp) | `brute force` `*800` | Jan/31/2021 16:53 | 
+472 | [A - Line to Cashier](https://codeforces.com/contest/408/problem/A) | [GNU C++17](./codeforces/408/A.cpp) | `implementation` `*900` | Jan/31/2021 16:35 | 
+471 | [A - Appleman and Easy Task](https://codeforces.com/contest/462/problem/A) | [GNU C++17](./codeforces/462/A.cpp) | `brute force` `implementation` `*1000` | Jan/31/2021 16:05 | 
+470 | [A - Equation](https://codeforces.com/contest/1269/problem/A) | [GNU C++17](./codeforces/1269/A.cpp) | `brute force` `math` `*800` | Jan/31/2021 14:03 | 
+469 | [B - Multiplication 2](https://atcoder.jp/contests/abc169/tasks/abc169_b) | [C++ (GCC 9.2.1)](./atcoder/abc169/B.cpp) | `AtCoder` `*200` | Jan/31/2021 13:19 | 
+468 | [A - Multiplication 1](https://atcoder.jp/contests/abc169/tasks/abc169_a) | [C++ (GCC 9.2.1)](./atcoder/abc169/A.cpp) | `AtCoder` `*100` | Jan/31/2021 13:00 | 
+467 | [A - Collecting Beats is Fun](https://codeforces.com/contest/373/problem/A) | [GNU C++17](./codeforces/373/A.cpp) | `implementation` `*900` | Jan/31/2021 03:06 | 
+466 | [A - Roma and Lucky Numbers](https://codeforces.com/contest/262/problem/A) | [GNU C++17](./codeforces/262/A.cpp) | `implementation` `*800` | Jan/31/2021 02:47 | 
+465 | [A - Cifera](https://codeforces.com/contest/114/problem/A) | [GNU C++17](./codeforces/114/A.cpp) | `math` `*1000` | Jan/31/2021 02:37 | 
+464 | [A - Epic Game](https://codeforces.com/contest/119/problem/A) | [GNU C++17](./codeforces/119/A.cpp) | `implementation` `*800` | Jan/31/2021 02:13 | 
+463 | [A - Juggling Letters](https://codeforces.com/contest/1397/problem/A) | [GNU C++17](./codeforces/1397/A.cpp) | `greedy` `strings` `*800` | Jan/31/2021 01:42 | 
+462 | [A - Counterexample ](https://codeforces.com/contest/483/problem/A) | [GNU C++17](./codeforces/483/A.cpp) | `brute force` `implementation` `math` `number theory` `*1100` | Jan/31/2021 01:00 | 
+461 | [A - Kefa and First Steps](https://codeforces.com/contest/580/problem/A) | [GNU C++17](./codeforces/580/A.cpp) | `brute force` `dp` `implementation` `*900` | Jan/31/2021 00:16 | 
+460 | [B - Five Dishes](https://atcoder.jp/contests/abc123/tasks/abc123_b) | [C++ (GCC 9.2.1)](./atcoder/abc123/B.cpp) | `AtCoder` `*200` | Jan/30/2021 21:50 | 
+459 | [B - Counting Roads](https://atcoder.jp/contests/abc061/tasks/abc061_b) | [C++ (GCC 9.2.1)](./atcoder/abc061/B.cpp) | `AtCoder` `*200` | Jan/30/2021 20:51 | 
+458 | [A - Wanna go back home](https://atcoder.jp/contests/agc003/tasks/agc003_a) | [C++ (GCC 9.2.1)](./atcoder/agc003/A.cpp) | `AtCoder` `*200` | Jan/30/2021 20:11 | 
+457 | [A - B +/- A](https://atcoder.jp/contests/abc118/tasks/abc118_a) | [C++ (GCC 9.2.1)](./atcoder/abc118/A.cpp) | `AtCoder` `*100` | Jan/30/2021 19:43 | 
+456 | [B - Foods Loved by Everyone](https://atcoder.jp/contests/abc118/tasks/abc118_b) | [C++ (GCC 9.2.1)](./atcoder/abc118/B.cpp) | `AtCoder` `*200` | Jan/30/2021 19:39 | 
+455 | [A - Buying Sweets](https://atcoder.jp/contests/abc087/tasks/abc087_a) | [C++ (GCC 9.2.1)](./atcoder/abc087/A.cpp) | `AtCoder` `*100` | Jan/30/2021 18:35 | 
+454 | [B - Coins](https://atcoder.jp/contests/abc087/tasks/abc087_b) | [C++ (GCC 9.2.1)](./atcoder/abc087/B.cpp) | `AtCoder` `*200` | Jan/30/2021 18:32 | 
+453 | [C - Fennec vs Monster](https://atcoder.jp/contests/abc153/tasks/abc153_c) | [C++ (GCC 9.2.1)](./atcoder/abc153/C.cpp) | `AtCoder` `*300` | Jan/30/2021 17:59 | 
 452 | [A - Keyboard](https://codeforces.com/contest/474/problem/A) | [GNU C++17](./codeforces/474/A.cpp) | `implementation` `*900` | Jan/30/2021 15:29 | 
 451 | [A - Cards](https://codeforces.com/contest/1220/problem/A) | [GNU C++17](./codeforces/1220/A.cpp) | `implementation` `sortings` `strings` `*800` | Jan/30/2021 14:44 | 
 450 | [B - Substring Removal Game](https://codeforces.com/contest/1398/problem/B) | [GNU C++17](./codeforces/1398/B.cpp) | `games` `greedy` `sortings` `*800` | Jan/30/2021 14:20 | 

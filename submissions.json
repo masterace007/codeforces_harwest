@@ -3071,6 +3071,22 @@
     ],
     "timestamp": "Jan/24/2021 02:34"
   },
+  "AC19797664": {
+    "contest_id": "abc153",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc153\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Fennec vs Monster",
+    "problem_url": "https://atcoder.jp/contests/abc153/tasks/abc153_c",
+    "submission_id": "AC19797664",
+    "submission_url": "https://atcoder.jp/contests/abc153/submissions/19797664",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/30/2021 17:59"
+  },
   "AC19808285": {
     "contest_id": "abc087",
     "language": "C++ (GCC 9.2.1)",
