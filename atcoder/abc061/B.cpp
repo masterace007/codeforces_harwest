@@ -16,17 +16,15 @@ using namespace chrono;
 void solve() {
 	int n,m;
 	cin >> n >> m;
-	map<int,int> arr;
-	for(int i = 1; i <= n; ++i)
-		arr[i] = 0;
+	int arr[51] = {0};
 	for(int i = 0; i < m; ++i){
 		int a,b;
 		cin >> a >> b;
-		++arr[a];
-		++arr[b];
+		arr	[--a]++;
+		arr[--b]++;	
 	}
-	for(auto x : arr)
-		cout<<x.second<<endl;
+	for(int i = 0; i < n; ++i)
+		cout<<arr[i]<<endl;
 }
 
 signed main() {
