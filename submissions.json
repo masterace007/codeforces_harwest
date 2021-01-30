@@ -3071,6 +3071,22 @@
     ],
     "timestamp": "Jan/24/2021 02:34"
   },
+  "AC19826067": {
+    "contest_id": "abc123",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc123\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Five Dishes",
+    "problem_url": "https://atcoder.jp/contests/abc123/tasks/abc123_b",
+    "submission_id": "AC19826067",
+    "submission_url": "https://atcoder.jp/contests/abc123/submissions/19826067",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/30/2021 21:50"
+  },
   "AC19837098": {
     "contest_id": "abc169",
     "language": "C++ (GCC 9.2.1)",
