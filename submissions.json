@@ -3071,6 +3071,22 @@
     ],
     "timestamp": "Jan/24/2021 02:34"
   },
+  "AC19771974": {
+    "contest_id": "abc153",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc153\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Serval vs Monster",
+    "problem_url": "https://atcoder.jp/contests/abc153/tasks/abc153_a",
+    "submission_id": "AC19771974",
+    "submission_url": "https://atcoder.jp/contests/abc153/submissions/19771974",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/30/2021 17:10"
+  },
   "AC19772066": {
     "contest_id": "abc153",
     "language": "C++ (GCC 9.2.1)",
