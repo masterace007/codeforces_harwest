@@ -3071,6 +3071,22 @@
     ],
     "timestamp": "Jan/24/2021 02:34"
   },
+  "AC19771149": {
+    "contest_id": "abc116",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc116\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Collatz Problem",
+    "problem_url": "https://atcoder.jp/contests/abc116/tasks/abc116_b",
+    "submission_id": "AC19771149",
+    "submission_url": "https://atcoder.jp/contests/abc116/submissions/19771149",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/30/2021 16:37"
+  },
   "AC19771875": {
     "contest_id": "abc153",
     "language": "C++ (GCC 9.2.1)",
