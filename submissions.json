@@ -3071,6 +3071,22 @@
     ],
     "timestamp": "Jan/24/2021 02:34"
   },
+  "AC19821313": {
+    "contest_id": "abc118",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc118\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Foods Loved by Everyone",
+    "problem_url": "https://atcoder.jp/contests/abc118/tasks/abc118_b",
+    "submission_id": "AC19821313",
+    "submission_url": "https://atcoder.jp/contests/abc118/submissions/19821313",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jan/30/2021 19:39"
+  },
   "AC19821560": {
     "contest_id": "abc118",
     "language": "C++ (GCC 9.2.1)",
