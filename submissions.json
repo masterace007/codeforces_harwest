@@ -3071,6 +3071,22 @@
     ],
     "timestamp": "Jan/24/2021 02:34"
   },
+  "AC19770916": {
+    "contest_id": "abc116",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc116\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Right Triangle",
+    "problem_url": "https://atcoder.jp/contests/abc116/tasks/abc116_a",
+    "submission_id": "AC19770916",
+    "submission_url": "https://atcoder.jp/contests/abc116/submissions/19770916",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Jan/30/2021 16:26"
+  },
   "AC19771149": {
     "contest_id": "abc116",
     "language": "C++ (GCC 9.2.1)",
