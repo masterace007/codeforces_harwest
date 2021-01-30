@@ -13,13 +13,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-424 | [A - Non-zero](https://codeforces.com/contest/1300/problem/A) | [GNU C++17](./codeforces/1300/A.cpp) | `implementation` `math` `*800` | Jan/31/2021 18:22 | 
-423 | [A - Playing with Dice](https://codeforces.com/contest/378/problem/A) | [GNU C++17](./codeforces/378/A.cpp) | `brute force` `*800` | Jan/31/2021 16:53 | 
-422 | [A - Line to Cashier](https://codeforces.com/contest/408/problem/A) | [GNU C++17](./codeforces/408/A.cpp) | `implementation` `*900` | Jan/31/2021 16:35 | 
-421 | [A - Appleman and Easy Task](https://codeforces.com/contest/462/problem/A) | [GNU C++17](./codeforces/462/A.cpp) | `brute force` `implementation` `*1000` | Jan/31/2021 16:05 | 
-420 | [A - Equation](https://codeforces.com/contest/1269/problem/A) | [GNU C++17](./codeforces/1269/A.cpp) | `brute force` `math` `*800` | Jan/31/2021 14:03 | 
-419 | [A - Collecting Beats is Fun](https://codeforces.com/contest/373/problem/A) | [GNU C++17](./codeforces/373/A.cpp) | `implementation` `*900` | Jan/31/2021 03:06 | 
-418 | [A - Roma and Lucky Numbers](https://codeforces.com/contest/262/problem/A) | [GNU C++17](./codeforces/262/A.cpp) | `implementation` `*800` | Jan/31/2021 02:47 | 
+425 | [A - Non-zero](https://codeforces.com/contest/1300/problem/A) | [GNU C++17](./codeforces/1300/A.cpp) | `implementation` `math` `*800` | Jan/31/2021 18:22 | 
+424 | [A - Playing with Dice](https://codeforces.com/contest/378/problem/A) | [GNU C++17](./codeforces/378/A.cpp) | `brute force` `*800` | Jan/31/2021 16:53 | 
+423 | [A - Line to Cashier](https://codeforces.com/contest/408/problem/A) | [GNU C++17](./codeforces/408/A.cpp) | `implementation` `*900` | Jan/31/2021 16:35 | 
+422 | [A - Appleman and Easy Task](https://codeforces.com/contest/462/problem/A) | [GNU C++17](./codeforces/462/A.cpp) | `brute force` `implementation` `*1000` | Jan/31/2021 16:05 | 
+421 | [A - Equation](https://codeforces.com/contest/1269/problem/A) | [GNU C++17](./codeforces/1269/A.cpp) | `brute force` `math` `*800` | Jan/31/2021 14:03 | 
+420 | [A - Collecting Beats is Fun](https://codeforces.com/contest/373/problem/A) | [GNU C++17](./codeforces/373/A.cpp) | `implementation` `*900` | Jan/31/2021 03:06 | 
+419 | [A - Roma and Lucky Numbers](https://codeforces.com/contest/262/problem/A) | [GNU C++17](./codeforces/262/A.cpp) | `implementation` `*800` | Jan/31/2021 02:47 | 
+418 | [A - Cifera](https://codeforces.com/contest/114/problem/A) | [GNU C++17](./codeforces/114/A.cpp) | `math` `*1000` | Jan/31/2021 02:37 | 
 417 | [A - Bad Triangle](https://codeforces.com/contest/1398/problem/A) | [GNU C++17](./codeforces/1398/A.cpp) | `geometry` `math` `*800` | Jan/27/2021 00:44 | 
 416 | [A - Candies and Two Sisters](https://codeforces.com/contest/1335/problem/A) | [GNU C++17](./codeforces/1335/A.cpp) | `math` `*800` | Jan/27/2021 00:30 | 
 415 | [A - Supercentral Point](https://codeforces.com/contest/165/problem/A) | [GNU C++17](./codeforces/165/A.cpp) | `implementation` `*1000` | Jan/26/2021 23:51 | 

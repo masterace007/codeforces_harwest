@@ -6885,6 +6885,22 @@
     ],
     "timestamp": "Jan/27/2021 00:44"
   },
+  "CF106057518": {
+    "contest_id": 114,
+    "language": "GNU C++17",
+    "path": "codeforces\\114\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cifera",
+    "problem_url": "https://codeforces.com/contest/114/problem/A",
+    "submission_id": "CF106057518",
+    "submission_url": "https://codeforces.com/contest/114/submission/106057518",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jan/31/2021 02:37"
+  },
   "CF106057986": {
     "contest_id": 262,
     "language": "GNU C++17",
