@@ -6885,6 +6885,23 @@
     ],
     "timestamp": "Jan/27/2021 00:44"
   },
+  "CF106103117": {
+    "contest_id": 1300,
+    "language": "GNU C++17",
+    "path": "codeforces\\1300\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Non-zero",
+    "problem_url": "https://codeforces.com/contest/1300/problem/A",
+    "submission_id": "CF106103117",
+    "submission_url": "https://codeforces.com/contest/1300/submission/106103117",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jan/31/2021 18:22"
+  },
   "CF60734149": {
     "contest_id": 71,
     "language": "Java 8",
