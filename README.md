@@ -13,22 +13,23 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-502 | [B - Construct the String](https://codeforces.com/contest/1335/problem/B) | [GNU C++17](./codeforces/1335/B.cpp) | `constructive algorithms` `*900` | Feb/03/2021 01:59 | 
-501 | [A - Puzzle Pieces](https://codeforces.com/contest/1345/problem/A) | [GNU C++17](./codeforces/1345/A.cpp) | `math` `*800` | Feb/03/2021 00:10 | 
-500 | [A - Polycarp's Pockets](https://codeforces.com/contest/1003/problem/A) | [GNU C++17](./codeforces/1003/A.cpp) | `implementation` `*800` | Feb/02/2021 23:19 | 
-499 | [A - Lineland Mail](https://codeforces.com/contest/567/problem/A) | [GNU C++17](./codeforces/567/A.cpp) | `greedy` `implementation` `*900` | Feb/02/2021 21:07 | 
-498 | [A - Case of the Zeros and Ones](https://codeforces.com/contest/556/problem/A) | [GNU C++17](./codeforces/556/A.cpp) | `greedy` `*900` | Feb/02/2021 20:41 | 
-497 | [A - Cards](https://codeforces.com/contest/701/problem/A) | [GNU C++17](./codeforces/701/A.cpp) | `greedy` `implementation` `*800` | Feb/02/2021 20:20 | 
-496 | [A - One-dimensional Japanese Crossword](https://codeforces.com/contest/721/problem/A) | [GNU C++17](./codeforces/721/A.cpp) | `implementation` `*800` | Feb/02/2021 19:27 | 
-495 | [A - Pens and Pencils](https://codeforces.com/contest/1244/problem/A) | [GNU C++17](./codeforces/1244/A.cpp) | `math` `*800` | Feb/02/2021 18:48 | 
-494 | [A - Die Roll](https://codeforces.com/contest/9/problem/A) | [GNU C++17](./codeforces/9/A.cpp) | `math` `probabilities` `*800` | Feb/02/2021 17:36 | 
-493 | [B - Teams Forming](https://codeforces.com/contest/1092/problem/B) | [GNU C++17](./codeforces/1092/B.cpp) | `sortings` `*800` | Feb/02/2021 16:39 | 
-492 | [A - Key races](https://codeforces.com/contest/835/problem/A) | [GNU C++17](./codeforces/835/A.cpp) | `math` `*800` | Feb/02/2021 16:06 | 
-491 | [A - Divide it!](https://codeforces.com/contest/1176/problem/A) | [GNU C++17](./codeforces/1176/A.cpp) | `brute force` `greedy` `implementation` `*800` | Feb/02/2021 15:49 | 
-490 | [A - Tanya and Stairways](https://codeforces.com/contest/1005/problem/A) | [GNU C++17](./codeforces/1005/A.cpp) | `implementation` `*800` | Feb/02/2021 14:15 | 
-489 | [A - C+=](https://codeforces.com/contest/1368/problem/A) | [GNU C++17](./codeforces/1368/A.cpp) | `brute force` `greedy` `implementation` `math` `*800` | Feb/02/2021 12:16 | 
-488 | [A - Hexadecimal's theorem](https://codeforces.com/contest/199/problem/A) | [GNU C++17](./codeforces/199/A.cpp) | `brute force` `constructive algorithms` `implementation` `number theory` `*900` | Feb/02/2021 02:53 | 
-487 | [A - From Hero to Zero](https://codeforces.com/contest/1175/problem/A) | [GNU C++17](./codeforces/1175/A.cpp) | `implementation` `math` `*900` | Feb/02/2021 02:39 | 
+503 | [B - Construct the String](https://codeforces.com/contest/1335/problem/B) | [GNU C++17](./codeforces/1335/B.cpp) | `constructive algorithms` `*900` | Feb/03/2021 01:59 | 
+502 | [A - Puzzle Pieces](https://codeforces.com/contest/1345/problem/A) | [GNU C++17](./codeforces/1345/A.cpp) | `math` `*800` | Feb/03/2021 00:10 | 
+501 | [A - Polycarp's Pockets](https://codeforces.com/contest/1003/problem/A) | [GNU C++17](./codeforces/1003/A.cpp) | `implementation` `*800` | Feb/02/2021 23:19 | 
+500 | [A - Lineland Mail](https://codeforces.com/contest/567/problem/A) | [GNU C++17](./codeforces/567/A.cpp) | `greedy` `implementation` `*900` | Feb/02/2021 21:07 | 
+499 | [A - Case of the Zeros and Ones](https://codeforces.com/contest/556/problem/A) | [GNU C++17](./codeforces/556/A.cpp) | `greedy` `*900` | Feb/02/2021 20:41 | 
+498 | [A - Cards](https://codeforces.com/contest/701/problem/A) | [GNU C++17](./codeforces/701/A.cpp) | `greedy` `implementation` `*800` | Feb/02/2021 20:20 | 
+497 | [A - One-dimensional Japanese Crossword](https://codeforces.com/contest/721/problem/A) | [GNU C++17](./codeforces/721/A.cpp) | `implementation` `*800` | Feb/02/2021 19:27 | 
+496 | [A - Pens and Pencils](https://codeforces.com/contest/1244/problem/A) | [GNU C++17](./codeforces/1244/A.cpp) | `math` `*800` | Feb/02/2021 18:48 | 
+495 | [A - Die Roll](https://codeforces.com/contest/9/problem/A) | [GNU C++17](./codeforces/9/A.cpp) | `math` `probabilities` `*800` | Feb/02/2021 17:36 | 
+494 | [B - Teams Forming](https://codeforces.com/contest/1092/problem/B) | [GNU C++17](./codeforces/1092/B.cpp) | `sortings` `*800` | Feb/02/2021 16:39 | 
+493 | [A - Key races](https://codeforces.com/contest/835/problem/A) | [GNU C++17](./codeforces/835/A.cpp) | `math` `*800` | Feb/02/2021 16:06 | 
+492 | [A - Divide it!](https://codeforces.com/contest/1176/problem/A) | [GNU C++17](./codeforces/1176/A.cpp) | `brute force` `greedy` `implementation` `*800` | Feb/02/2021 15:49 | 
+491 | [A - Tanya and Stairways](https://codeforces.com/contest/1005/problem/A) | [GNU C++17](./codeforces/1005/A.cpp) | `implementation` `*800` | Feb/02/2021 14:15 | 
+490 | [A - C+=](https://codeforces.com/contest/1368/problem/A) | [GNU C++17](./codeforces/1368/A.cpp) | `brute force` `greedy` `implementation` `math` `*800` | Feb/02/2021 12:16 | 
+489 | [A - Hexadecimal's theorem](https://codeforces.com/contest/199/problem/A) | [GNU C++17](./codeforces/199/A.cpp) | `brute force` `constructive algorithms` `implementation` `number theory` `*900` | Feb/02/2021 02:53 | 
+488 | [A - From Hero to Zero](https://codeforces.com/contest/1175/problem/A) | [GNU C++17](./codeforces/1175/A.cpp) | `implementation` `math` `*900` | Feb/02/2021 02:39 | 
+487 | [A - Gravity Flip](https://codeforces.com/contest/405/problem/A) | [GNU C++17](./codeforces/405/A.cpp) | `greedy` `implementation` `sortings` `*900` | Feb/02/2021 02:17 | 
 486 | [A - Non-zero](https://codeforces.com/contest/1300/problem/A) | [GNU C++17](./codeforces/1300/A.cpp) | `implementation` `math` `*800` | Jan/31/2021 18:22 | 
 485 | [A - Playing with Dice](https://codeforces.com/contest/378/problem/A) | [GNU C++17](./codeforces/378/A.cpp) | `brute force` `*800` | Jan/31/2021 16:53 | 
 484 | [A - Line to Cashier](https://codeforces.com/contest/408/problem/A) | [GNU C++17](./codeforces/408/A.cpp) | `implementation` `*900` | Jan/31/2021 16:35 | 
