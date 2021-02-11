@@ -8559,6 +8559,24 @@
     ],
     "timestamp": "Feb/03/2021 01:59"
   },
+  "CF107145148": {
+    "contest_id": 554,
+    "language": "GNU C++17",
+    "path": "codeforces\\554\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Kyoya and Photobooks",
+    "problem_url": "https://codeforces.com/contest/554/problem/A",
+    "submission_id": "CF107145148",
+    "submission_url": "https://codeforces.com/contest/554/submission/107145148",
+    "tags": [
+      "brute force",
+      "math",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Feb/11/2021 23:27"
+  },
   "CF107148533": {
     "contest_id": 1163,
     "language": "GNU C++17",
