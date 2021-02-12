@@ -10203,6 +10203,22 @@
     ],
     "timestamp": "Feb/12/2021 00:49"
   },
+  "CF107240181": {
+    "contest_id": 1080,
+    "language": "GNU C++17",
+    "path": "codeforces\\1080\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Margarite and the best present",
+    "problem_url": "https://codeforces.com/contest/1080/problem/B",
+    "submission_id": "CF107240181",
+    "submission_url": "https://codeforces.com/contest/1080/submission/107240181",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Feb/13/2021 01:10"
+  },
   "CF107243011": {
     "contest_id": 1004,
     "language": "GNU C++17",
