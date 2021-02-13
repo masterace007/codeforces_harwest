@@ -10203,6 +10203,23 @@
     ],
     "timestamp": "Feb/12/2021 00:49"
   },
+  "CF107273685": {
+    "contest_id": 1150,
+    "language": "GNU C++17",
+    "path": "codeforces\\1150\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Tiling Challenge",
+    "problem_url": "https://codeforces.com/contest/1150/problem/B",
+    "submission_id": "CF107273685",
+    "submission_url": "https://codeforces.com/contest/1150/submission/107273685",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Feb/13/2021 16:24"
+  },
   "CF107275256": {
     "contest_id": 16,
     "language": "GNU C++17",
