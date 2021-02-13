@@ -10203,6 +10203,24 @@
     ],
     "timestamp": "Feb/12/2021 00:49"
   },
+  "CF107264188": {
+    "contest_id": 776,
+    "language": "GNU C++17",
+    "path": "codeforces\\776\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "A Serial Killer",
+    "problem_url": "https://codeforces.com/contest/776/problem/A",
+    "submission_id": "CF107264188",
+    "submission_url": "https://codeforces.com/contest/776/submission/107264188",
+    "tags": [
+      "brute force",
+      "implementation",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Feb/13/2021 13:34"
+  },
   "CF107266119": {
     "contest_id": 980,
     "language": "GNU C++17",
