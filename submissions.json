@@ -10203,6 +10203,22 @@
     ],
     "timestamp": "Feb/12/2021 00:49"
   },
+  "CF107369926": {
+    "contest_id": 44,
+    "language": "GNU C++17",
+    "path": "codeforces\\44\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Indian Summer",
+    "problem_url": "https://codeforces.com/contest/44/problem/A",
+    "submission_id": "CF107369926",
+    "submission_url": "https://codeforces.com/contest/44/submission/107369926",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Feb/15/2021 02:57"
+  },
   "CF107385984": {
     "contest_id": 834,
     "language": "GNU C++17",
