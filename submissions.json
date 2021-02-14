@@ -10203,6 +10203,24 @@
     ],
     "timestamp": "Feb/12/2021 00:49"
   },
+  "CF107363773": {
+    "contest_id": 801,
+    "language": "GNU C++17",
+    "path": "codeforces\\801\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Valued Keys",
+    "problem_url": "https://codeforces.com/contest/801/problem/B",
+    "submission_id": "CF107363773",
+    "submission_url": "https://codeforces.com/contest/801/submission/107363773",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Feb/15/2021 00:14"
+  },
   "CF107365156": {
     "contest_id": 168,
     "language": "GNU C++17",
