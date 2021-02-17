@@ -10203,6 +10203,22 @@
     ],
     "timestamp": "Feb/12/2021 00:49"
   },
+  "CF107722071": {
+    "contest_id": 1136,
+    "language": "GNU C++17",
+    "path": "codeforces\\1136\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Nastya Is Reading a Book",
+    "problem_url": "https://codeforces.com/contest/1136/problem/A",
+    "submission_id": "CF107722071",
+    "submission_url": "https://codeforces.com/contest/1136/submission/107722071",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/18/2021 00:20"
+  },
   "CF107977755": {
     "contest_id": 1418,
     "language": "GNU C++17",
