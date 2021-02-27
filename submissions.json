@@ -10203,6 +10203,22 @@
     ],
     "timestamp": "Feb/12/2021 00:49"
   },
+  "CF108594247": {
+    "contest_id": 1223,
+    "language": "GNU C++17",
+    "path": "codeforces\\1223\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Strings Equalization",
+    "problem_url": "https://codeforces.com/contest/1223/problem/B",
+    "submission_id": "CF108594247",
+    "submission_url": "https://codeforces.com/contest/1223/submission/108594247",
+    "tags": [
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Feb/27/2021 14:40"
+  },
   "CF108618076": {
     "contest_id": 1277,
     "language": "GNU C++17",
