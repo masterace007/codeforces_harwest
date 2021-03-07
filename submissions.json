@@ -10203,6 +10203,22 @@
     ],
     "timestamp": "Feb/12/2021 00:49"
   },
+  "CF109358572": {
+    "contest_id": 1020,
+    "language": "GNU C++17",
+    "path": "codeforces\\1020\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Building for SIS",
+    "problem_url": "https://codeforces.com/contest/1020/problem/A",
+    "submission_id": "CF109358572",
+    "submission_url": "https://codeforces.com/contest/1020/submission/109358572",
+    "tags": [
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Mar/08/2021 00:46"
+  },
   "CF109382248": {
     "contest_id": 1237,
     "language": "GNU C++17",
