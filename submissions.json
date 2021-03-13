@@ -3439,6 +3439,22 @@
     ],
     "timestamp": "Jan/31/2021 13:19"
   },
+  "AC20863912": {
+    "contest_id": "abc065",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc065\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Trained?",
+    "problem_url": "https://atcoder.jp/contests/abc065/tasks/abc065_b",
+    "submission_id": "AC20863912",
+    "submission_url": "https://atcoder.jp/contests/abc065/submissions/20863912",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Mar/13/2021 13:50"
+  },
   "AC20989568": {
     "contest_id": "abc195",
     "language": "C++ (GCC 9.2.1)",
