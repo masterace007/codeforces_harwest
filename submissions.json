@@ -3439,6 +3439,22 @@
     ],
     "timestamp": "Jan/31/2021 13:19"
   },
+  "AC20989848": {
+    "contest_id": "abc075",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc075\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "One out of Three",
+    "problem_url": "https://atcoder.jp/contests/abc075/tasks/abc075_a",
+    "submission_id": "AC20989848",
+    "submission_url": "https://atcoder.jp/contests/abc075/submissions/20989848",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/17/2021 01:06"
+  },
   "AC21302623": {
     "contest_id": "abc197",
     "language": "C++ (GCC 9.2.1)",
