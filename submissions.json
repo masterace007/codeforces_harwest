@@ -3439,6 +3439,22 @@
     ],
     "timestamp": "Jan/31/2021 13:19"
   },
+  "AC20989568": {
+    "contest_id": "abc195",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc195\\A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Health M Death",
+    "problem_url": "https://atcoder.jp/contests/abc195/tasks/abc195_a",
+    "submission_id": "AC20989568",
+    "submission_url": "https://atcoder.jp/contests/abc195/submissions/20989568",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Mar/17/2021 00:23"
+  },
   "AC20989848": {
     "contest_id": "abc075",
     "language": "C++ (GCC 9.2.1)",
