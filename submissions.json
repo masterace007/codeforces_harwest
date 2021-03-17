@@ -12187,6 +12187,23 @@
     ],
     "timestamp": "Mar/08/2021 23:03"
   },
+  "CF110168622": {
+    "contest_id": 1413,
+    "language": "GNU C++17",
+    "path": "codeforces\\1413\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Finding Sasuke",
+    "problem_url": "https://codeforces.com/contest/1413/problem/A",
+    "submission_id": "CF110168622",
+    "submission_url": "https://codeforces.com/contest/1413/submission/110168622",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/17/2021 17:20"
+  },
   "CF110170067": {
     "contest_id": 451,
     "language": "GNU C++17",
