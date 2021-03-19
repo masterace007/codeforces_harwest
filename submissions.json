@@ -12187,6 +12187,24 @@
     ],
     "timestamp": "Mar/08/2021 23:03"
   },
+  "CF110476964": {
+    "contest_id": 672,
+    "language": "GNU C++17",
+    "path": "codeforces\\672\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Different is Good",
+    "problem_url": "https://codeforces.com/contest/672/problem/B",
+    "submission_id": "CF110476964",
+    "submission_url": "https://codeforces.com/contest/672/submission/110476964",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Mar/19/2021 23:26"
+  },
   "CF110482750": {
     "contest_id": 1153,
     "language": "GNU C++17",
