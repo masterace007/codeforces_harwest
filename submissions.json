@@ -3439,6 +3439,22 @@
     ],
     "timestamp": "Jan/31/2021 13:19"
   },
+  "AC21305049": {
+    "contest_id": "abc197",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc197\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Visibility",
+    "problem_url": "https://atcoder.jp/contests/abc197/tasks/abc197_b",
+    "submission_id": "AC21305049",
+    "submission_url": "https://atcoder.jp/contests/abc197/submissions/21305049",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Mar/27/2021 17:56"
+  },
   "CF101294584": {
     "contest_id": 1462,
     "language": "GNU C++17",
