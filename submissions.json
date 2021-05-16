@@ -12187,6 +12187,24 @@
     ],
     "timestamp": "Mar/08/2021 23:03"
   },
+  "CF116418534": {
+    "contest_id": 909,
+    "language": "GNU C++17",
+    "path": "codeforces\\909\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Generate Login",
+    "problem_url": "https://codeforces.com/contest/909/problem/A",
+    "submission_id": "CF116418534",
+    "submission_url": "https://codeforces.com/contest/909/submission/116418534",
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings",
+      "*1000"
+    ],
+    "timestamp": "May/16/2021 21:17"
+  },
   "CF116421374": {
     "contest_id": 357,
     "language": "GNU C++17",
